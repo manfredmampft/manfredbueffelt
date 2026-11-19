@@ -1,0 +1,1578 @@
+[
+  {
+    "name": "Afghanistan",
+    "continent": "Asien",
+    "neighbors": [
+      "China",
+      "Iran",
+      "Pakistan",
+      "Tadschikistan",
+      "Turkmenistan",
+      "Usbekistan"
+    ]
+  },
+  {
+    "name": "Albanien",
+    "continent": "Europa",
+    "neighbors": [
+      "Griechenland",
+      "Montenegro",
+      "Nordmazedonien",
+      "Kosovo"
+    ]
+  },
+  {
+    "name": "Algerien",
+    "continent": "Afrika",
+    "neighbors": [
+      "Libyen",
+      "Mali",
+      "Mauretanien",
+      "Marokko",
+      "Niger",
+      "Tunesien"
+    ]
+  },
+  {
+    "name": "Andorra",
+    "continent": "Europa",
+    "neighbors": [
+      "Frankreich",
+      "Spanien"
+    ]
+  },
+  {
+    "name": "Angola",
+    "continent": "Afrika",
+    "neighbors": [
+      "Demokratische Republik Kongo",
+      "Republik Kongo",
+      "Namibia",
+      "Sambia"
+    ]
+  },
+  {
+    "name": "Argentinien",
+    "continent": "Südamerika",
+    "neighbors": [
+      "Bolivien",
+      "Brasilien",
+      "Chile",
+      "Paraguay",
+      "Uruguay"
+    ]
+  },
+  {
+    "name": "Armenien",
+    "continent": "Asien",
+    "neighbors": [
+      "Aserbaidschan",
+      "Georgien",
+      "Iran",
+      "Türkei"
+    ]
+  },
+  {
+    "name": "Aserbaidschan",
+    "continent": "Asien",
+    "neighbors": [
+      "Armenien",
+      "Georgien",
+      "Iran",
+      "Russland",
+      "Türkei"
+    ]
+  },
+  {
+    "name": "Bangladesch",
+    "continent": "Asien",
+    "neighbors": [
+      "Myanmar",
+      "Indien"
+    ]
+  },
+  {
+    "name": "Belarus",
+    "continent": "Europa",
+    "neighbors": [
+      "Lettland",
+      "Litauen",
+      "Polen",
+      "Russland",
+      "Ukraine"
+    ]
+  },
+  {
+    "name": "Belgien",
+    "continent": "Europa",
+    "neighbors": [
+      "Frankreich",
+      "Deutschland",
+      "Luxemburg",
+      "Niederlande"
+    ]
+  },
+  {
+    "name": "Belize",
+    "continent": "Nordamerika",
+    "neighbors": [
+      "Guatemala",
+      "Mexiko"
+    ]
+  },
+  {
+    "name": "Benin",
+    "continent": "Afrika",
+    "neighbors": [
+      "Burkina Faso",
+      "Niger",
+      "Nigeria",
+      "Togo"
+    ]
+  },
+  {
+    "name": "Bhutan",
+    "continent": "Asien",
+    "neighbors": [
+      "China",
+      "Indien"
+    ]
+  },
+  {
+    "name": "Bolivien",
+    "continent": "Südamerika",
+    "neighbors": [
+      "Argentinien",
+      "Brasilien",
+      "Chile",
+      "Paraguay",
+      "Peru"
+    ]
+  },
+  {
+    "name": "Bosnien und Herzegowina",
+    "continent": "Europa",
+    "neighbors": [
+      "Kroatien",
+      "Montenegro",
+      "Serbien"
+    ]
+  },
+  {
+    "name": "Botswana",
+    "continent": "Afrika",
+    "neighbors": [
+      "Namibia",
+      "Südafrika",
+      "Sambia",
+      "Simbabwe"
+    ]
+  },
+  {
+    "name": "Brasilien",
+    "continent": "Südamerika",
+    "neighbors": [
+      "Argentinien",
+      "Bolivien",
+      "Kolumbien",
+      "Frankreich",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "name": "Brunei",
+    "continent": "Asien",
+    "neighbors": [
+      "Malaysia"
+    ]
+  },
+  {
+    "name": "Bulgarien",
+    "continent": "Europa",
+    "neighbors": [
+      "Griechenland",
+      "Nordmazedonien",
+      "Rumänien",
+      "Serbien",
+      "Türkei"
+    ]
+  },
+  {
+    "name": "Burkina Faso",
+    "continent": "Afrika",
+    "neighbors": [
+      "Benin",
+      "Elfenbeinküste",
+      "Ghana",
+      "Mali",
+      "Niger",
+      "Togo"
+    ]
+  },
+  {
+    "name": "Burundi",
+    "continent": "Afrika",
+    "neighbors": [
+      "Demokratische Republik Kongo",
+      "Ruanda",
+      "Tansania"
+    ]
+  },
+  {
+    "name": "Chile",
+    "continent": "Südamerika",
+    "neighbors": [
+      "Argentinien",
+      "Bolivien",
+      "Peru"
+    ]
+  },
+  {
+    "name": "China",
+    "continent": "Asien",
+    "neighbors": [
+      "Afghanistan",
+      "Bhutan",
+      "Indien",
+      "Kasachstan",
+      "Nordkorea",
+      "Kirgisistan",
+      "Laos",
+      "Mongolei",
+      "Myanmar",
+      "Nepal",
+      "Pakistan",
+      "Russland",
+      "Tadschikistan",
+      "Vietnam"
+    ]
+  },
+  {
+    "name": "Costa Rica",
+    "continent": "Nordamerika",
+    "neighbors": [
+      "Nicaragua",
+      "Panama"
+    ]
+  },
+  {
+    "name": "Demokratische Republik Kongo",
+    "continent": "Afrika",
+    "neighbors": [
+      "Angola",
+      "Burundi",
+      "Zentralafrikanische Republik",
+      "Republik Kongo",
+      "Ruanda",
+      "Südsudan",
+      "Tansania",
+      "Uganda",
+      "Sambia"
+    ]
+  },
+  {
+    "name": "Deutschland",
+    "continent": "Europa",
+    "neighbors": [
+      "Österreich",
+      "Belgien",
+      "Tschechien",
+      "Dänemark",
+      "Frankreich",
+      "Luxemburg",
+      "Niederlande",
+      "Polen",
+      "Schweiz"
+    ]
+  },
+  {
+    "name": "Dominikanische Republik",
+    "continent": "Nordamerika",
+    "neighbors": [
+      "Haiti"
+    ]
+  },
+  {
+    "name": "Dschibuti",
+    "continent": "Afrika",
+    "neighbors": [
+      "Eritrea",
+      "Äthiopien"
+    ]
+  },
+  {
+    "name": "Dänemark",
+    "continent": "Europa",
+    "neighbors": [
+      "Deutschland"
+    ]
+  },
+  {
+    "name": "Ecuador",
+    "continent": "Südamerika",
+    "neighbors": [
+      "Kolumbien",
+      "Peru"
+    ]
+  },
+  {
+    "name": "El Salvador",
+    "continent": "Nordamerika",
+    "neighbors": [
+      "Guatemala",
+      "Honduras"
+    ]
+  },
+  {
+    "name": "Elfenbeinküste",
+    "continent": "Afrika",
+    "neighbors": [
+      "Burkina Faso",
+      "Ghana",
+      "Guinea",
+      "Liberia",
+      "Mali"
+    ]
+  },
+  {
+    "name": "Eritrea",
+    "continent": "Afrika",
+    "neighbors": [
+      "Dschibuti",
+      "Sudan",
+      "Äthiopien"
+    ]
+  },
+  {
+    "name": "Estland",
+    "continent": "Europa",
+    "neighbors": [
+      "Lettland",
+      "Russland"
+    ]
+  },
+  {
+    "name": "Eswatini",
+    "continent": "Afrika",
+    "neighbors": [
+      "Mosambik",
+      "Südafrika"
+    ]
+  },
+  {
+    "name": "Finnland",
+    "continent": "Europa",
+    "neighbors": [
+      "Norwegen",
+      "Russland",
+      "Schweden"
+    ]
+  },
+  {
+    "name": "Frankreich",
+    "continent": "Europa",
+    "neighbors": [
+      "Andorra",
+      "Belgien",
+      "Brasilien",
+      "Deutschland",
+      "Italien",
+      "Luxemburg",
+      "Monaco",
+      "Spanien",
+      "Schweiz",
+      "Suriname"
+    ]
+  },
+  {
+    "name": "Gabun",
+    "continent": "Afrika",
+    "neighbors": [
+      "Kamerun",
+      "Republik Kongo",
+      "Äquatorialguinea"
+    ]
+  },
+  {
+    "name": "Gambia",
+    "continent": "Afrika",
+    "neighbors": [
+      "Senegal"
+    ]
+  },
+  {
+    "name": "Georgien",
+    "continent": "Asien",
+    "neighbors": [
+      "Armenien",
+      "Aserbaidschan",
+      "Russland",
+      "Türkei"
+    ]
+  },
+  {
+    "name": "Ghana",
+    "continent": "Afrika",
+    "neighbors": [
+      "Burkina Faso",
+      "Elfenbeinküste",
+      "Togo"
+    ]
+  },
+  {
+    "name": "Griechenland",
+    "continent": "Europa",
+    "neighbors": [
+      "Albanien",
+      "Bulgarien",
+      "Nordmazedonien",
+      "Türkei"
+    ]
+  },
+  {
+    "name": "Guatemala",
+    "continent": "Nordamerika",
+    "neighbors": [
+      "Belize",
+      "El Salvador",
+      "Honduras",
+      "Mexiko"
+    ]
+  },
+  {
+    "name": "Guinea",
+    "continent": "Afrika",
+    "neighbors": [
+      "Elfenbeinküste",
+      "Guinea-Bissau",
+      "Liberia",
+      "Mali",
+      "Senegal",
+      "Sierra Leone"
+    ]
+  },
+  {
+    "name": "Guinea-Bissau",
+    "continent": "Afrika",
+    "neighbors": [
+      "Guinea",
+      "Senegal"
+    ]
+  },
+  {
+    "name": "Guyana",
+    "continent": "Südamerika",
+    "neighbors": [
+      "Brasilien",
+      "Suriname",
+      "Venezuela"
+    ]
+  },
+  {
+    "name": "Haiti",
+    "continent": "Nordamerika",
+    "neighbors": [
+      "Dominikanische Republik"
+    ]
+  },
+  {
+    "name": "Honduras",
+    "continent": "Nordamerika",
+    "neighbors": [
+      "El Salvador",
+      "Guatemala",
+      "Nicaragua"
+    ]
+  },
+  {
+    "name": "Indien",
+    "continent": "Asien",
+    "neighbors": [
+      "Bangladesch",
+      "Bhutan",
+      "China",
+      "Myanmar",
+      "Nepal",
+      "Pakistan"
+    ]
+  },
+  {
+    "name": "Indonesien",
+    "continent": "Asien",
+    "neighbors": [
+      "Osttimor",
+      "Malaysia",
+      "Papua-Neuguinea"
+    ]
+  },
+  {
+    "name": "Irak",
+    "continent": "Asien",
+    "neighbors": [
+      "Iran",
+      "Jordanien",
+      "Kuwait",
+      "Saudi-Arabien",
+      "Syrien",
+      "Türkei"
+    ]
+  },
+  {
+    "name": "Iran",
+    "continent": "Asien",
+    "neighbors": [
+      "Afghanistan",
+      "Armenien",
+      "Aserbaidschan",
+      "Irak",
+      "Pakistan",
+      "Türkei",
+      "Turkmenistan"
+    ]
+  },
+  {
+    "name": "Irland",
+    "continent": "Europa",
+    "neighbors": [
+      "Vereinigtes Königreich"
+    ]
+  },
+  {
+    "name": "Israel",
+    "continent": "Asien",
+    "neighbors": [
+      "Ägypten",
+      "Jordanien",
+      "Libanon",
+      "Syrien",
+      "Palästina"
+    ]
+  },
+  {
+    "name": "Italien",
+    "continent": "Europa",
+    "neighbors": [
+      "Österreich",
+      "Frankreich",
+      "San Marino",
+      "Slowenien",
+      "Schweiz",
+      "Vatikanstadt"
+    ]
+  },
+  {
+    "name": "Jemen",
+    "continent": "Asien",
+    "neighbors": [
+      "Oman",
+      "Saudi-Arabien"
+    ]
+  },
+  {
+    "name": "Jordanien",
+    "continent": "Asien",
+    "neighbors": [
+      "Irak",
+      "Israel",
+      "Saudi-Arabien",
+      "Syrien",
+      "Palästina"
+    ]
+  },
+  {
+    "name": "Kambodscha",
+    "continent": "Asien",
+    "neighbors": [
+      "Laos",
+      "Thailand",
+      "Vietnam"
+    ]
+  },
+  {
+    "name": "Kamerun",
+    "continent": "Afrika",
+    "neighbors": [
+      "Zentralafrikanische Republik",
+      "Tschad",
+      "Republik Kongo",
+      "Äquatorialguinea",
+      "Gabun",
+      "Nigeria"
+    ]
+  },
+  {
+    "name": "Kanada",
+    "continent": "Nordamerika",
+    "neighbors": [
+      "Vereinigte Staaten",
+      "Grönland"
+    ]
+  },
+  {
+    "name": "Kasachstan",
+    "continent": "Asien",
+    "neighbors": [
+      "China",
+      "Kirgisistan",
+      "Russland",
+      "Turkmenistan",
+      "Usbekistan"
+    ]
+  },
+  {
+    "name": "Katar",
+    "continent": "Asien",
+    "neighbors": [
+      "Saudi-Arabien"
+    ]
+  },
+  {
+    "name": "Kenia",
+    "continent": "Afrika",
+    "neighbors": [
+      "Äthiopien",
+      "Somalia",
+      "Südsudan",
+      "Tansania",
+      "Uganda"
+    ]
+  },
+  {
+    "name": "Kirgisistan",
+    "continent": "Asien",
+    "neighbors": [
+      "China",
+      "Kasachstan",
+      "Tadschikistan",
+      "Usbekistan"
+    ]
+  },
+  {
+    "name": "Kolumbien",
+    "continent": "Südamerika",
+    "neighbors": [
+      "Brasilien",
+      "Ecuador",
+      "Panama",
+      "Peru",
+      "Venezuela"
+    ]
+  },
+  {
+    "name": "Kosovo",
+    "continent": "Europa",
+    "neighbors": [
+      "Albanien",
+      "Montenegro",
+      "Nordmazedonien",
+      "Serbien"
+    ]
+  },
+  {
+    "name": "Kroatien",
+    "continent": "Europa",
+    "neighbors": [
+      "Bosnien und Herzegowina",
+      "Ungarn",
+      "Montenegro",
+      "Serbien",
+      "Slowenien"
+    ]
+  },
+  {
+    "name": "Kuwait",
+    "continent": "Asien",
+    "neighbors": [
+      "Irak",
+      "Saudi-Arabien"
+    ]
+  },
+  {
+    "name": "Laos",
+    "continent": "Asien",
+    "neighbors": [
+      "Myanmar",
+      "Kambodscha",
+      "China",
+      "Thailand",
+      "Vietnam"
+    ]
+  },
+  {
+    "name": "Lesotho",
+    "continent": "Afrika",
+    "neighbors": [
+      "Südafrika"
+    ]
+  },
+  {
+    "name": "Lettland",
+    "continent": "Europa",
+    "neighbors": [
+      "Belarus",
+      "Estland",
+      "Litauen",
+      "Russland"
+    ]
+  },
+  {
+    "name": "Libanon",
+    "continent": "Asien",
+    "neighbors": [
+      "Israel",
+      "Syrien"
+    ]
+  },
+  {
+    "name": "Liberia",
+    "continent": "Afrika",
+    "neighbors": [
+      "Elfenbeinküste",
+      "Guinea",
+      "Sierra Leone"
+    ]
+  },
+  {
+    "name": "Libyen",
+    "continent": "Afrika",
+    "neighbors": [
+      "Algerien",
+      "Tschad",
+      "Ägypten",
+      "Niger",
+      "Sudan",
+      "Tunesien"
+    ]
+  },
+  {
+    "name": "Liechtenstein",
+    "continent": "Europa",
+    "neighbors": [
+      "Österreich",
+      "Schweiz"
+    ]
+  },
+  {
+    "name": "Litauen",
+    "continent": "Europa",
+    "neighbors": [
+      "Belarus",
+      "Lettland",
+      "Polen",
+      "Russland"
+    ]
+  },
+  {
+    "name": "Luxemburg",
+    "continent": "Europa",
+    "neighbors": [
+      "Belgien",
+      "Frankreich",
+      "Deutschland"
+    ]
+  },
+  {
+    "name": "Malawi",
+    "continent": "Afrika",
+    "neighbors": [
+      "Mosambik",
+      "Tansania",
+      "Sambia"
+    ]
+  },
+  {
+    "name": "Malaysia",
+    "continent": "Asien",
+    "neighbors": [
+      "Brunei",
+      "Indonesien",
+      "Thailand"
+    ]
+  },
+  {
+    "name": "Mali",
+    "continent": "Afrika",
+    "neighbors": [
+      "Algerien",
+      "Burkina Faso",
+      "Elfenbeinküste",
+      "Guinea",
+      "Mauretanien",
+      "Niger",
+      "Senegal"
+    ]
+  },
+  {
+    "name": "Marokko",
+    "continent": "Afrika",
+    "neighbors": [
+      "Algerien",
+      "Spanien"
+    ]
+  },
+  {
+    "name": "Mauretanien",
+    "continent": "Afrika",
+    "neighbors": [
+      "Algerien",
+      "Mali",
+      "Senegal"
+    ]
+  },
+  {
+    "name": "Mexiko",
+    "continent": "Nordamerika",
+    "neighbors": [
+      "Belize",
+      "Guatemala",
+      "Vereinigte Staaten"
+    ]
+  },
+  {
+    "name": "Moldau",
+    "continent": "Europa",
+    "neighbors": [
+      "Rumänien",
+      "Ukraine"
+    ]
+  },
+  {
+    "name": "Monaco",
+    "continent": "Europa",
+    "neighbors": [
+      "Frankreich"
+    ]
+  },
+  {
+    "name": "Mongolei",
+    "continent": "Asien",
+    "neighbors": [
+      "China",
+      "Russland"
+    ]
+  },
+  {
+    "name": "Montenegro",
+    "continent": "Europa",
+    "neighbors": [
+      "Albanien",
+      "Bosnien und Herzegowina",
+      "Kroatien",
+      "Serbien",
+      "Kosovo"
+    ]
+  },
+  {
+    "name": "Mosambik",
+    "continent": "Afrika",
+    "neighbors": [
+      "Eswatini",
+      "Malawi",
+      "Südafrika",
+      "Tansania",
+      "Sambia",
+      "Simbabwe"
+    ]
+  },
+  {
+    "name": "Myanmar",
+    "continent": "Asien",
+    "neighbors": [
+      "Bangladesch",
+      "China",
+      "Indien",
+      "Laos",
+      "Thailand"
+    ]
+  },
+  {
+    "name": "Namibia",
+    "continent": "Afrika",
+    "neighbors": [
+      "Angola",
+      "Botswana",
+      "Südafrika",
+      "Sambia"
+    ]
+  },
+  {
+    "name": "Nepal",
+    "continent": "Asien",
+    "neighbors": [
+      "Indien",
+      "China"
+    ]
+  },
+  {
+    "name": "Nicaragua",
+    "continent": "Nordamerika",
+    "neighbors": [
+      "Costa Rica",
+      "Honduras"
+    ]
+  },
+  {
+    "name": "Niederlande",
+    "continent": "Europa",
+    "neighbors": [
+      "Belgien",
+      "Deutschland"
+    ]
+  },
+  {
+    "name": "Niger",
+    "continent": "Afrika",
+    "neighbors": [
+      "Algerien",
+      "Benin",
+      "Burkina Faso",
+      "Tschad",
+      "Libyen",
+      "Mali",
+      "Nigeria"
+    ]
+  },
+  {
+    "name": "Nigeria",
+    "continent": "Afrika",
+    "neighbors": [
+      "Benin",
+      "Kamerun",
+      "Tschad",
+      "Niger"
+    ]
+  },
+  {
+    "name": "Nordkorea",
+    "continent": "Asien",
+    "neighbors": [
+      "China",
+      "Südkorea",
+      "Russland"
+    ]
+  },
+  {
+    "name": "Nordmazedonien",
+    "continent": "Europa",
+    "neighbors": [
+      "Albanien",
+      "Bulgarien",
+      "Griechenland",
+      "Serbien",
+      "Kosovo"
+    ]
+  },
+  {
+    "name": "Norwegen",
+    "continent": "Europa",
+    "neighbors": [
+      "Finnland",
+      "Russland",
+      "Schweden"
+    ]
+  },
+  {
+    "name": "Oman",
+    "continent": "Asien",
+    "neighbors": [
+      "Saudi-Arabien",
+      "Vereinigte Arabische Emirate",
+      "Jemen"
+    ]
+  },
+  {
+    "name": "Osttimor",
+    "continent": "Asien",
+    "neighbors": [
+      "Indonesien"
+    ]
+  },
+  {
+    "name": "Pakistan",
+    "continent": "Asien",
+    "neighbors": [
+      "Afghanistan",
+      "China",
+      "Indien",
+      "Iran"
+    ]
+  },
+  {
+    "name": "Palästina",
+    "continent": "Asien",
+    "neighbors": [
+      "Ägypten",
+      "Israel",
+      "Jordanien"
+    ]
+  },
+  {
+    "name": "Panama",
+    "continent": "Nordamerika",
+    "neighbors": [
+      "Kolumbien",
+      "Costa Rica"
+    ]
+  },
+  {
+    "name": "Papua-Neuguinea",
+    "continent": "Ozeanien",
+    "neighbors": [
+      "Indonesien"
+    ]
+  },
+  {
+    "name": "Paraguay",
+    "continent": "Südamerika",
+    "neighbors": [
+      "Argentinien",
+      "Bolivien",
+      "Brasilien"
+    ]
+  },
+  {
+    "name": "Peru",
+    "continent": "Südamerika",
+    "neighbors": [
+      "Bolivien",
+      "Brasilien",
+      "Chile",
+      "Kolumbien",
+      "Ecuador"
+    ]
+  },
+  {
+    "name": "Polen",
+    "continent": "Europa",
+    "neighbors": [
+      "Belarus",
+      "Tschechien",
+      "Deutschland",
+      "Litauen",
+      "Russland",
+      "Slowakei",
+      "Ukraine"
+    ]
+  },
+  {
+    "name": "Portugal",
+    "continent": "Europa",
+    "neighbors": [
+      "Spanien"
+    ]
+  },
+  {
+    "name": "Republik Kongo",
+    "continent": "Afrika",
+    "neighbors": [
+      "Angola",
+      "Kamerun",
+      "Zentralafrikanische Republik",
+      "Demokratische Republik Kongo",
+      "Gabun"
+    ]
+  },
+  {
+    "name": "Ruanda",
+    "continent": "Afrika",
+    "neighbors": [
+      "Burundi",
+      "Demokratische Republik Kongo",
+      "Tansania",
+      "Uganda"
+    ]
+  },
+  {
+    "name": "Rumänien",
+    "continent": "Europa",
+    "neighbors": [
+      "Bulgarien",
+      "Ungarn",
+      "Moldau",
+      "Serbien",
+      "Ukraine"
+    ]
+  },
+  {
+    "name": "Russland",
+    "continent": "Europa",
+    "neighbors": [
+      "Aserbaidschan",
+      "Belarus",
+      "China",
+      "Estland",
+      "Finnland",
+      "Georgien",
+      "Kasachstan",
+      "Nordkorea",
+      "Lettland",
+      "Litauen",
+      "Mongolei",
+      "Norwegen",
+      "Polen",
+      "Ukraine"
+    ]
+  },
+  {
+    "name": "Sambia",
+    "continent": "Afrika",
+    "neighbors": [
+      "Angola",
+      "Botswana",
+      "Demokratische Republik Kongo",
+      "Malawi",
+      "Mosambik",
+      "Namibia",
+      "Tansania",
+      "Simbabwe"
+    ]
+  },
+  {
+    "name": "San Marino",
+    "continent": "Europa",
+    "neighbors": [
+      "Italien"
+    ]
+  },
+  {
+    "name": "Saudi-Arabien",
+    "continent": "Asien",
+    "neighbors": [
+      "Irak",
+      "Jordanien",
+      "Kuwait",
+      "Oman",
+      "Katar",
+      "Vereinigte Arabische Emirate",
+      "Jemen"
+    ]
+  },
+  {
+    "name": "Schweden",
+    "continent": "Europa",
+    "neighbors": [
+      "Finnland",
+      "Norwegen"
+    ]
+  },
+  {
+    "name": "Schweiz",
+    "continent": "Europa",
+    "neighbors": [
+      "Österreich",
+      "Frankreich",
+      "Italien",
+      "Liechtenstein",
+      "Deutschland"
+    ]
+  },
+  {
+    "name": "Senegal",
+    "continent": "Afrika",
+    "neighbors": [
+      "Gambia",
+      "Guinea",
+      "Guinea-Bissau",
+      "Mali",
+      "Mauretanien"
+    ]
+  },
+  {
+    "name": "Serbien",
+    "continent": "Europa",
+    "neighbors": [
+      "Bosnien und Herzegowina",
+      "Bulgarien",
+      "Kroatien",
+      "Ungarn",
+      "Montenegro",
+      "Nordmazedonien",
+      "Rumänien",
+      "Kosovo"
+    ]
+  },
+  {
+    "name": "Sierra Leone",
+    "continent": "Afrika",
+    "neighbors": [
+      "Guinea",
+      "Liberia"
+    ]
+  },
+  {
+    "name": "Simbabwe",
+    "continent": "Afrika",
+    "neighbors": [
+      "Botswana",
+      "Mosambik",
+      "Südafrika",
+      "Sambia"
+    ]
+  },
+  {
+    "name": "Slowakei",
+    "continent": "Europa",
+    "neighbors": [
+      "Österreich",
+      "Tschechien",
+      "Ungarn",
+      "Polen",
+      "Ukraine"
+    ]
+  },
+  {
+    "name": "Slowenien",
+    "continent": "Europa",
+    "neighbors": [
+      "Österreich",
+      "Kroatien",
+      "Italien",
+      "Ungarn"
+    ]
+  },
+  {
+    "name": "Somalia",
+    "continent": "Afrika",
+    "neighbors": [
+      "Äthiopien",
+      "Kenia"
+    ]
+  },
+  {
+    "name": "Spanien",
+    "continent": "Europa",
+    "neighbors": [
+      "Andorra",
+      "Frankreich",
+      "Marokko",
+      "Portugal",
+      "Gibraltar"
+    ]
+  },
+  {
+    "name": "Sudan",
+    "continent": "Afrika",
+    "neighbors": [
+      "Zentralafrikanische Republik",
+      "Tschad",
+      "Ägypten",
+      "Eritrea",
+      "Äthiopien",
+      "Libyen",
+      "Südsudan"
+    ]
+  },
+  {
+    "name": "Suriname",
+    "continent": "Südamerika",
+    "neighbors": [
+      "Brasilien",
+      "Frankreich",
+      "Guyana"
+    ]
+  },
+  {
+    "name": "Syrien",
+    "continent": "Asien",
+    "neighbors": [
+      "Irak",
+      "Israel",
+      "Jordanien",
+      "Libanon",
+      "Türkei"
+    ]
+  },
+  {
+    "name": "Südafrika",
+    "continent": "Afrika",
+    "neighbors": [
+      "Botswana",
+      "Eswatini",
+      "Lesotho",
+      "Mosambik",
+      "Namibia",
+      "Simbabwe"
+    ]
+  },
+  {
+    "name": "Südkorea",
+    "continent": "Asien",
+    "neighbors": [
+      "Nordkorea"
+    ]
+  },
+  {
+    "name": "Südsudan",
+    "continent": "Afrika",
+    "neighbors": [
+      "Zentralafrikanische Republik",
+      "Demokratische Republik Kongo",
+      "Äthiopien",
+      "Kenia",
+      "Sudan",
+      "Uganda"
+    ]
+  },
+  {
+    "name": "Tadschikistan",
+    "continent": "Asien",
+    "neighbors": [
+      "Afghanistan",
+      "China",
+      "Kirgisistan",
+      "Usbekistan"
+    ]
+  },
+  {
+    "name": "Tansania",
+    "continent": "Afrika",
+    "neighbors": [
+      "Burundi",
+      "Demokratische Republik Kongo",
+      "Kenia",
+      "Malawi",
+      "Mosambik",
+      "Ruanda",
+      "Uganda",
+      "Sambia"
+    ]
+  },
+  {
+    "name": "Thailand",
+    "continent": "Asien",
+    "neighbors": [
+      "Myanmar",
+      "Kambodscha",
+      "Laos",
+      "Malaysia"
+    ]
+  },
+  {
+    "name": "Togo",
+    "continent": "Afrika",
+    "neighbors": [
+      "Benin",
+      "Burkina Faso",
+      "Ghana"
+    ]
+  },
+  {
+    "name": "Tschad",
+    "continent": "Afrika",
+    "neighbors": [
+      "Kamerun",
+      "Zentralafrikanische Republik",
+      "Libyen",
+      "Niger",
+      "Nigeria",
+      "Sudan"
+    ]
+  },
+  {
+    "name": "Tschechien",
+    "continent": "Europa",
+    "neighbors": [
+      "Österreich",
+      "Deutschland",
+      "Polen",
+      "Slowakei"
+    ]
+  },
+  {
+    "name": "Tunesien",
+    "continent": "Afrika",
+    "neighbors": [
+      "Algerien",
+      "Libyen"
+    ]
+  },
+  {
+    "name": "Turkmenistan",
+    "continent": "Asien",
+    "neighbors": [
+      "Afghanistan",
+      "Iran",
+      "Kasachstan",
+      "Usbekistan"
+    ]
+  },
+  {
+    "name": "Türkei",
+    "continent": "Asien",
+    "neighbors": [
+      "Armenien",
+      "Aserbaidschan",
+      "Bulgarien",
+      "Georgien",
+      "Griechenland",
+      "Iran",
+      "Irak",
+      "Syrien"
+    ]
+  },
+  {
+    "name": "Uganda",
+    "continent": "Afrika",
+    "neighbors": [
+      "Demokratische Republik Kongo",
+      "Kenia",
+      "Ruanda",
+      "Südsudan",
+      "Tansania"
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "continent": "Europa",
+    "neighbors": [
+      "Belarus",
+      "Ungarn",
+      "Moldau",
+      "Polen",
+      "Rumänien",
+      "Russland",
+      "Slowakei"
+    ]
+  },
+  {
+    "name": "Ungarn",
+    "continent": "Europa",
+    "neighbors": [
+      "Österreich",
+      "Kroatien",
+      "Rumänien",
+      "Serbien",
+      "Slowakei",
+      "Slowenien",
+      "Ukraine"
+    ]
+  },
+  {
+    "name": "Uruguay",
+    "continent": "Südamerika",
+    "neighbors": [
+      "Argentinien",
+      "Brasilien"
+    ]
+  },
+  {
+    "name": "Usbekistan",
+    "continent": "Asien",
+    "neighbors": [
+      "Afghanistan",
+      "Kasachstan",
+      "Kirgisistan",
+      "Tadschikistan",
+      "Turkmenistan"
+    ]
+  },
+  {
+    "name": "Vatikanstadt",
+    "continent": "Europa",
+    "neighbors": [
+      "Italien"
+    ]
+  },
+  {
+    "name": "Venezuela",
+    "continent": "Südamerika",
+    "neighbors": [
+      "Brasilien",
+      "Kolumbien",
+      "Guyana"
+    ]
+  },
+  {
+    "name": "Vereinigte Arabische Emirate",
+    "continent": "Asien",
+    "neighbors": [
+      "Oman",
+      "Saudi-Arabien"
+    ]
+  },
+  {
+    "name": "Vereinigte Staaten",
+    "continent": "Nordamerika",
+    "neighbors": [
+      "Kanada",
+      "Mexiko"
+    ]
+  },
+  {
+    "name": "Vereinigtes Königreich",
+    "continent": "Europa",
+    "neighbors": [
+      "Irland"
+    ]
+  },
+  {
+    "name": "Vietnam",
+    "continent": "Asien",
+    "neighbors": [
+      "Kambodscha",
+      "China",
+      "Laos"
+    ]
+  },
+  {
+    "name": "Zentralafrikanische Republik",
+    "continent": "Afrika",
+    "neighbors": [
+      "Kamerun",
+      "Tschad",
+      "Demokratische Republik Kongo",
+      "Republik Kongo",
+      "Südsudan",
+      "Sudan"
+    ]
+  },
+  {
+    "name": "Ägypten",
+    "continent": "Afrika",
+    "neighbors": [
+      "Israel",
+      "Libyen",
+      "Palästina",
+      "Sudan"
+    ]
+  },
+  {
+    "name": "Äquatorialguinea",
+    "continent": "Afrika",
+    "neighbors": [
+      "Kamerun",
+      "Gabun"
+    ]
+  },
+  {
+    "name": "Äthiopien",
+    "continent": "Afrika",
+    "neighbors": [
+      "Dschibuti",
+      "Eritrea",
+      "Kenia",
+      "Somalia",
+      "Südsudan",
+      "Sudan"
+    ]
+  },
+  {
+    "name": "Österreich",
+    "continent": "Europa",
+    "neighbors": [
+      "Tschechien",
+      "Deutschland",
+      "Ungarn",
+      "Italien",
+      "Liechtenstein",
+      "Slowakei",
+      "Slowenien",
+      "Schweiz"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nachbarländer-Rätsel</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <h1>Nachbarländer-Rätsel</h1>
+
+    <label for="continent">Kontinent</label>
+    <select id="continent">
+      <option value="all">Alle</option>
+      <option value="Europe">Europa</option>
+      <option value="Asia">Asien</option>
+      <option value="Africa">Afrika</option>
+      <option value="Americas">Amerika</option>
+      <option value="Oceania">Ozeanien</option>
+    </select>
+
+    <label for="round-size">Länder pro Runde</label>
+    <select id="round-size">
+      <option>5</option>
+      <option selected>10</option>
+      <option>15</option>
+      <option>20</option>
+    </select>
+
+    <section id="card">
+      <h2 id="country-name"></h2>
+      <p id="counter"></p>
+      <div id="inputs"></div>
+
+      <button id="hint">Hinweis</button>
+      <button id="reveal">Auflösen</button>
+      <button id="next">Weiter</button>
+    </section>
+
+    <p id="result"></p>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
