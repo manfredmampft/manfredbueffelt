@@ -185,7 +185,7 @@ $("answer-form").addEventListener("submit", event => {
 $("hint").addEventListener("click", () => {
   if (status !== "open") return;
   hinted = true;
-  hintLength = Math.min(hintLength + 1, Math.max(1, current.answers[0].length - 1));
+  hintLength = Math.min(hintLength + 1, Math.max(1, current.derivation.length - 1));
   const prefix = current.derivation.slice(0, hintLength);
   $("answer-input").placeholder = `Hinweis: ${prefix}…`;
   setFeedback(`Der Ort beginnt mit „${prefix}…“.`);

@@ -8,19 +8,19 @@
   {
     "code": "AA",
     "label": "Ostalbkreis",
-    "derivation": "Aalen",
+    "derivation": "Ostalbkreis",
     "region": "Baden-Württemberg"
   },
   {
     "code": "AB",
     "label": "Stadt Aschaffenburg",
-    "derivation": "AschaffenBurg",
+    "derivation": "Aschaffenburg",
     "region": "Bayern"
   },
   {
     "code": "ABG",
     "label": "Landkreis Altenburger Land",
-    "derivation": "AltenBurG",
+    "derivation": "Altenburger Land",
     "region": "Thüringen"
   },
   {
@@ -32,49 +32,49 @@
   {
     "code": "AC",
     "label": "Städteregion Aachen",
-    "derivation": "AaChen/Aix laChapelle",
+    "derivation": "Aachen",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "AE",
     "label": "Vogtlandkreis",
-    "derivation": "AuErbach",
+    "derivation": "Vogtlandkreis",
     "region": "Sachsen"
   },
   {
     "code": "AH",
     "label": "Kreis Borken",
-    "derivation": "Ahaus",
+    "derivation": "Borken",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "AIB",
     "label": "Landkreis München",
-    "derivation": "Aibling",
+    "derivation": "München",
     "region": "Bayern"
   },
   {
     "code": "AIC",
     "label": "Landkreis Aichach-Friedberg",
-    "derivation": "Aichach",
+    "derivation": "Aichach-Friedberg",
     "region": "Bayern"
   },
   {
     "code": "AK",
     "label": "Landkreis Altenkirchen",
-    "derivation": "AltenKirchen",
+    "derivation": "Altenkirchen",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "ALF",
     "label": "Landkreis Hildesheim",
-    "derivation": "Alfeld",
+    "derivation": "Hildesheim",
     "region": "Niedersachsen"
   },
   {
     "code": "ALZ",
     "label": "Landkreis Aschaffenburg",
-    "derivation": "Alzenau",
+    "derivation": "Aschaffenburg",
     "region": "Bayern"
   },
   {
@@ -92,73 +92,73 @@
   {
     "code": "ANA",
     "label": "Erzgebirgskreis",
-    "derivation": "AnnAberg",
+    "derivation": "Erzgebirgskreis",
     "region": "Sachsen"
   },
   {
     "code": "ANG",
     "label": "Landkreis Uckermark",
-    "derivation": "Angermünde",
+    "derivation": "Uckermark",
     "region": "Brandenburg"
   },
   {
     "code": "ANK",
     "label": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
-    "derivation": "Anklam",
+    "derivation": "Vorpommern-Greifswald ohne die Stadt Greifswald",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "AP",
     "label": "Landkreis Weimarer Land",
-    "derivation": "Apolda",
+    "derivation": "Weimarer Land",
     "region": "Thüringen"
   },
   {
     "code": "APD",
     "label": "Landkreis Weimarer Land",
-    "derivation": "ApolDa",
+    "derivation": "Weimarer Land",
     "region": "Thüringen"
   },
   {
     "code": "ARN",
     "label": "Ilm-Kreis",
-    "derivation": "Arnstadt",
+    "derivation": "Ilm-Kreis",
     "region": "Thüringen"
   },
   {
     "code": "ART",
     "label": "Kyffhäuserkreis",
-    "derivation": "Artern",
+    "derivation": "Kyffhäuserkreis",
     "region": "Thüringen"
   },
   {
     "code": "AS",
     "label": "Landkreis Amberg-Sulzbach",
-    "derivation": "Amberg, Sulzbach",
+    "derivation": "Amberg-Sulzbach",
     "region": "Bayern"
   },
   {
     "code": "ASL",
     "label": "Salzlandkreis",
-    "derivation": "AschersLeben",
+    "derivation": "Salzlandkreis",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "ASZ",
     "label": "Erzgebirgskreis",
-    "derivation": "Aue, SchwarZenberg",
+    "derivation": "Erzgebirgskreis",
     "region": "Sachsen"
   },
   {
     "code": "AT",
     "label": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
-    "derivation": "AltenTreptow",
+    "derivation": "Vorpommern-Greifswald ohne die Stadt Greifswald",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "AU",
     "label": "Erzgebirgskreis",
-    "derivation": "Aue",
+    "derivation": "Erzgebirgskreis",
     "region": "Sachsen"
   },
   {
@@ -170,19 +170,19 @@
   {
     "code": "AW",
     "label": "Landkreis Ahrweiler",
-    "derivation": "AhrWeiler",
+    "derivation": "Ahrweiler",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "AZ",
     "label": "Landkreis Alzey-Worms",
-    "derivation": "AlZey",
+    "derivation": "Alzey-Worms",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "AZE",
     "label": "Landkreis Anhalt-Bitterfeld",
-    "derivation": "Anhalt-Zerbst",
+    "derivation": "Anhalt-Bitterfeld",
     "region": "Sachsen-Anhalt"
   },
   {
@@ -212,73 +212,73 @@
   {
     "code": "BB",
     "label": "Landkreis Böblingen",
-    "derivation": "BöBlingen",
+    "derivation": "Böblingen",
     "region": "Baden-Württemberg"
   },
   {
     "code": "BBG",
     "label": "Salzlandkreis",
-    "derivation": "BernBurG",
+    "derivation": "Salzlandkreis",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "BC",
     "label": "Landkreis Biberach",
-    "derivation": "BiberaCh",
+    "derivation": "Biberach",
     "region": "Baden-Württemberg"
   },
   {
     "code": "BCH",
     "label": "Neckar-Odenwald-Kreis",
-    "derivation": "Buchen",
+    "derivation": "Neckar-Odenwald-Kreis",
     "region": "Baden-Württemberg"
   },
   {
     "code": "BE",
     "label": "Kreis Warendorf",
-    "derivation": "Beckum",
+    "derivation": "Warendorf",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "BED",
     "label": "Landkreis Mittelsachsen",
-    "derivation": "Brand-ErbisDorf",
+    "derivation": "Mittelsachsen",
     "region": "Sachsen"
   },
   {
     "code": "BEL",
     "label": "Landkreis Potsdam-Mittelmark",
-    "derivation": "Belzig",
+    "derivation": "Potsdam-Mittelmark",
     "region": "Brandenburg"
   },
   {
     "code": "BER",
     "label": "Landkreis Barnim",
-    "derivation": "Bernau",
+    "derivation": "Barnim",
     "region": "Brandenburg"
   },
   {
     "code": "BF",
     "label": "Kreis Steinfurt",
-    "derivation": "BurgsteinFurt",
+    "derivation": "Steinfurt",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "BGD",
     "label": "Landkreis Berchtesgadener Land",
-    "derivation": "BerchtesGaDen",
+    "derivation": "Berchtesgadener Land",
     "region": "Bayern"
   },
   {
     "code": "BGL",
     "label": "Landkreis Berchtesgadener Land",
-    "derivation": "BerchtesGadenerLand",
+    "derivation": "Berchtesgadener Land",
     "region": "Bayern"
   },
   {
     "code": "BH",
     "label": "Ortenaukreis",
-    "derivation": "BüHl",
+    "derivation": "Ortenaukreis",
     "region": "Baden-Württemberg"
   },
   {
@@ -290,13 +290,13 @@
   {
     "code": "BID",
     "label": "Landkreis Marburg-Biedenkopf",
-    "derivation": "BieDenkopf",
+    "derivation": "Marburg-Biedenkopf",
     "region": "Hessen"
   },
   {
     "code": "BIN",
     "label": "Landkreis Mainz-Bingen",
-    "derivation": "Bingen",
+    "derivation": "Mainz-Bingen",
     "region": "Rheinland-Pfalz"
   },
   {
@@ -308,55 +308,55 @@
   {
     "code": "BIT",
     "label": "Eifelkreis Bitburg-Prüm",
-    "derivation": "Bitburg",
+    "derivation": "Eifelkreis Bitburg-Prüm",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "BIW",
     "label": "Landkreis Bautzen",
-    "derivation": "BischofsWerda",
+    "derivation": "Bautzen",
     "region": "Sachsen"
   },
   {
     "code": "BK",
     "label": "Rems-Murr-Kreis",
-    "derivation": "BacKnang",
+    "derivation": "Rems-Murr-Kreis",
     "region": "Baden-Württemberg"
   },
   {
     "code": "BKS",
     "label": "Landkreis Bernkastel-Wittlich",
-    "derivation": "BernKaStel",
+    "derivation": "Bernkastel-Wittlich",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "BLB",
     "label": "Kreis Siegen-Wittgenstein",
-    "derivation": "BerLeBurg",
+    "derivation": "Siegen-Wittgenstein",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "BLK",
     "label": "Burgenlandkreis",
-    "derivation": "BurgenLandKreis",
+    "derivation": "Burgenlandkreis",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "BM",
     "label": "Rhein-Erft-Kreis",
-    "derivation": "BergheiM",
+    "derivation": "Rhein-Erft-Kreis",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "BN",
     "label": "Stadt Bonn",
-    "derivation": "BonN",
+    "derivation": "Bonn",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "BNA",
     "label": "Landkreis Leipzig",
-    "derivation": "Borna",
+    "derivation": "Leipzig",
     "region": "Sachsen"
   },
   {
@@ -368,13 +368,13 @@
   {
     "code": "BOG",
     "label": "Landkreis Straubing-Bogen",
-    "derivation": "Bogen",
+    "derivation": "Straubing-Bogen",
     "region": "Bayern"
   },
   {
     "code": "BOH",
     "label": "Kreis Borken",
-    "derivation": "BocHolt",
+    "derivation": "Borken",
     "region": "Nordrhein-Westfalen"
   },
   {
@@ -392,85 +392,85 @@
   {
     "code": "BR",
     "label": "Landkreis Karlsruhe",
-    "derivation": "Bruchsal",
+    "derivation": "Karlsruhe",
     "region": "Baden-Württemberg"
   },
   {
     "code": "BRA",
     "label": "Landkreis Wesermarsch",
-    "derivation": "Brake",
+    "derivation": "Wesermarsch",
     "region": "Niedersachsen"
   },
   {
     "code": "BRB",
     "label": "Stadt Brandenburg an der Havel",
-    "derivation": "BrandenBurg",
+    "derivation": "Brandenburg an der Havel",
     "region": "Brandenburg"
   },
   {
     "code": "BRG",
     "label": "Landkreis Jerichower Land",
-    "derivation": "Burg",
+    "derivation": "Jerichower Land",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "BRK",
     "label": "Landkreis Bad Kissingen",
-    "derivation": "BrücKenau",
+    "derivation": "Bad Kissingen",
     "region": "Bayern"
   },
   {
     "code": "BRL",
     "label": "Landkreis Goslar",
-    "derivation": "BraunLage",
+    "derivation": "Goslar",
     "region": "Niedersachsen"
   },
   {
     "code": "BRV",
     "label": "Landkreis Rotenburg",
-    "derivation": "BremerVörde",
+    "derivation": "Rotenburg",
     "region": "Niedersachsen"
   },
   {
     "code": "BS",
     "label": "Stadt Braunschweig",
-    "derivation": "BraunSchweig",
+    "derivation": "Braunschweig",
     "region": "Niedersachsen"
   },
   {
     "code": "BSB",
     "label": "Landkreis Osnabrück",
-    "derivation": "BerSenBrück",
+    "derivation": "Osnabrück",
     "region": "Niedersachsen"
   },
   {
     "code": "BSK",
     "label": "Landkreis Oder-Spree",
-    "derivation": "Beeskow",
+    "derivation": "Oder-Spree",
     "region": "Brandenburg"
   },
   {
     "code": "BT",
     "label": "Stadt Bayreuth",
-    "derivation": "BayreuTh",
+    "derivation": "Bayreuth",
     "region": "Bayern"
   },
   {
     "code": "BTF",
     "label": "Landkreis Anhalt-Bitterfeld",
-    "derivation": "BitTerFeld",
+    "derivation": "Anhalt-Bitterfeld",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "BUL",
     "label": "Landkreis Amberg-Sulzbach",
-    "derivation": "BurgLengenfeld",
+    "derivation": "Amberg-Sulzbach",
     "region": "Bayern"
   },
   {
     "code": "BZ",
     "label": "Landkreis Bautzen",
-    "derivation": "BautZen",
+    "derivation": "Bautzen",
     "region": "Sachsen"
   },
   {
@@ -482,19 +482,19 @@
   {
     "code": "CA",
     "label": "Landkreis Oberspreewald-Lausitz",
-    "derivation": "Calau",
+    "derivation": "Oberspreewald-Lausitz",
     "region": "Brandenburg"
   },
   {
     "code": "CAS",
     "label": "Kreis Recklinghausen",
-    "derivation": "Castrop",
+    "derivation": "Recklinghausen",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "CB",
     "label": "Stadt Cottbus",
-    "derivation": "CottBus",
+    "derivation": "Cottbus",
     "region": "Brandenburg"
   },
   {
@@ -512,25 +512,25 @@
   {
     "code": "CLP",
     "label": "Landkreis Cloppenburg",
-    "derivation": "ClopPenburg",
+    "derivation": "Cloppenburg",
     "region": "Niedersachsen"
   },
   {
     "code": "CLZ",
     "label": "Landkreis Goslar",
-    "derivation": "Clausthal-Zellerfeld",
+    "derivation": "Goslar",
     "region": "Niedersachsen"
   },
   {
     "code": "CO",
     "label": "Stadt Coburg und Landkreis Coburg",
-    "derivation": "Coburg",
+    "derivation": "Coburg und Landkreis Coburg",
     "region": "Bayern"
   },
   {
     "code": "COC",
     "label": "Landkreis Cochem-Zell",
-    "derivation": "Cochem",
+    "derivation": "Cochem-Zell",
     "region": "Rheinland-Pfalz"
   },
   {
@@ -542,7 +542,7 @@
   {
     "code": "CR",
     "label": "Landkreis Schwäbisch Hall",
-    "derivation": "Crailsheim",
+    "derivation": "Schwäbisch Hall",
     "region": "Baden-Württemberg"
   },
   {
@@ -554,7 +554,7 @@
   {
     "code": "CW",
     "label": "Landkreis Calw",
-    "derivation": "CalW",
+    "derivation": "Calw",
     "region": "Baden-Württemberg"
   },
   {
@@ -566,43 +566,43 @@
   {
     "code": "DA",
     "label": "Landkreis Darmstadt-Dieburg und Stadt Darmstadt",
-    "derivation": "Darmstadt",
+    "derivation": "Darmstadt-Dieburg und Stadt Darmstadt",
     "region": "Hessen"
   },
   {
     "code": "DAH",
     "label": "Landkreis Dachau",
-    "derivation": "DacHau",
+    "derivation": "Dachau",
     "region": "Bayern"
   },
   {
     "code": "DAN",
     "label": "Landkreis Lüchow-Dannenberg",
-    "derivation": "Dannenberg",
+    "derivation": "Lüchow-Dannenberg",
     "region": "Niedersachsen"
   },
   {
     "code": "DAU",
     "label": "Landkreis Vulkaneifel",
-    "derivation": "Daun",
+    "derivation": "Vulkaneifel",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "DBR",
     "label": "Landkreis Rostock",
-    "derivation": "DoBeRan",
+    "derivation": "Rostock",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "DD",
     "label": "Stadt Dresden",
-    "derivation": "DresDen",
+    "derivation": "Dresden",
     "region": "Sachsen"
   },
   {
     "code": "DE",
     "label": "Stadt Dessau-Roßlau",
-    "derivation": "Dessau",
+    "derivation": "Dessau-Roßlau",
     "region": "Sachsen-Anhalt"
   },
   {
@@ -620,67 +620,67 @@
   {
     "code": "DGF",
     "label": "Landkreis Dingolfing-Landau",
-    "derivation": "DinGolFing",
+    "derivation": "Dingolfing-Landau",
     "region": "Bayern"
   },
   {
     "code": "DH",
     "label": "Landkreis Diepholz",
-    "derivation": "DiepHolz",
+    "derivation": "Diepholz",
     "region": "Niedersachsen"
   },
   {
     "code": "DI",
     "label": "Landkreis Darmstadt-Dieburg",
-    "derivation": "Dieburg",
+    "derivation": "Darmstadt-Dieburg",
     "region": "Hessen"
   },
   {
     "code": "DIL",
     "label": "Lahn-Dill-Kreis",
-    "derivation": "Dillenburg",
+    "derivation": "Lahn-Dill-Kreis",
     "region": "Hessen"
   },
   {
     "code": "DIN",
     "label": "Kreis Wesel",
-    "derivation": "Dinslaken",
+    "derivation": "Wesel",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "DIZ",
     "label": "Rhein-Lahn-Kreis",
-    "derivation": "DieZ",
+    "derivation": "Rhein-Lahn-Kreis",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "DKB",
     "label": "Landkreis Ansbach",
-    "derivation": "DinKelsBühl",
+    "derivation": "Ansbach",
     "region": "Bayern"
   },
   {
     "code": "DL",
     "label": "Landkreis Mittelsachsen",
-    "derivation": "DöbeLn",
+    "derivation": "Mittelsachsen",
     "region": "Sachsen"
   },
   {
     "code": "DLG",
     "label": "Landkreis Dillingen an der Donau",
-    "derivation": "DilLinGen",
+    "derivation": "Dillingen an der Donau",
     "region": "Bayern"
   },
   {
     "code": "DM",
     "label": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-    "derivation": "DemMin",
+    "derivation": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "DN",
     "label": "Kreis Düren",
-    "derivation": "DüreN",
+    "derivation": "Düren",
     "region": "Nordrhein-Westfalen"
   },
   {
@@ -692,19 +692,19 @@
   {
     "code": "DON",
     "label": "Landkreis Donau-Ries",
-    "derivation": "Donauwörth",
+    "derivation": "Donau-Ries",
     "region": "Bayern"
   },
   {
     "code": "DS",
     "label": "Schwarzwald-Baar-Kreis",
-    "derivation": "DonaueSchingen",
+    "derivation": "Schwarzwald-Baar-Kreis",
     "region": "Baden-Württemberg"
   },
   {
     "code": "DT",
     "label": "Kreis Lippe",
-    "derivation": "DeTmold",
+    "derivation": "Lippe",
     "region": "Nordrhein-Westfalen"
   },
   {
@@ -716,19 +716,19 @@
   {
     "code": "DUD",
     "label": "Landkreis Göttingen ohne die Stadt Göttingen",
-    "derivation": "Duderstadt",
+    "derivation": "Göttingen ohne die Stadt Göttingen",
     "region": "Niedersachsen"
   },
   {
     "code": "DW",
     "label": "Landkreis Sächsische Schweiz-Osterzgebirge",
-    "derivation": "DippoldisWalde",
+    "derivation": "Sächsische Schweiz-Osterzgebirge",
     "region": "Sachsen"
   },
   {
     "code": "DZ",
     "label": "Landkreis Nordsachsen",
-    "derivation": "DelitZsch",
+    "derivation": "Nordsachsen",
     "region": "Sachsen"
   },
   {
@@ -740,13 +740,13 @@
   {
     "code": "EA",
     "label": "Wartburgkreis",
-    "derivation": "EisenAch",
+    "derivation": "Wartburgkreis",
     "region": "Thüringen"
   },
   {
     "code": "EB",
     "label": "Landkreis Nordsachsen",
-    "derivation": "EilenBurg",
+    "derivation": "Nordsachsen",
     "region": "Sachsen"
   },
   {
@@ -758,49 +758,49 @@
   {
     "code": "EBN",
     "label": "Landkreis Haßberge",
-    "derivation": "EberN",
+    "derivation": "Haßberge",
     "region": "Bayern"
   },
   {
     "code": "EBS",
     "label": "Landkreis Bayreuth",
-    "derivation": "EbermannStadt",
+    "derivation": "Bayreuth",
     "region": "Bayern"
   },
   {
     "code": "ECK",
     "label": "Kreis Rendsburg-Eckernförde",
-    "derivation": "Eckernförde",
+    "derivation": "Rendsburg-Eckernförde",
     "region": "Schleswig-Holstein"
   },
   {
     "code": "ED",
     "label": "Landkreis Erding",
-    "derivation": "ErDing",
+    "derivation": "Erding",
     "region": "Bayern"
   },
   {
     "code": "EE",
     "label": "Landkreis Elbe-Elster",
-    "derivation": "Elbe, Elster",
+    "derivation": "Elbe-Elster",
     "region": "Brandenburg"
   },
   {
     "code": "EF",
     "label": "Stadt Erfurt",
-    "derivation": "ErFurt",
+    "derivation": "Erfurt",
     "region": "Thüringen"
   },
   {
     "code": "EG",
     "label": "Landkreis Rottal-Inn",
-    "derivation": "Eggenfelden",
+    "derivation": "Rottal-Inn",
     "region": "Bayern"
   },
   {
     "code": "EH",
     "label": "Landkreis Oder-Spree",
-    "derivation": "EisenHüttenstadt",
+    "derivation": "Oder-Spree",
     "region": "Brandenburg"
   },
   {
@@ -818,25 +818,25 @@
   {
     "code": "EIL",
     "label": "Landkreis Mansfeld-Südharz",
-    "derivation": "EisLeben",
+    "derivation": "Mansfeld-Südharz",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "EIN",
     "label": "Landkreis Northeim",
-    "derivation": "Einbeck",
+    "derivation": "Northeim",
     "region": "Niedersachsen"
   },
   {
     "code": "EIS",
     "label": "Saale-Holzland-Kreis",
-    "derivation": "Eisenberg",
+    "derivation": "Saale-Holzland-Kreis",
     "region": "Thüringen"
   },
   {
     "code": "EL",
     "label": "Landkreis Emsland",
-    "derivation": "EmsLand",
+    "derivation": "Emsland",
     "region": "Niedersachsen"
   },
   {
@@ -854,13 +854,13 @@
   {
     "code": "EMS",
     "label": "Rhein-Lahn-Kreis",
-    "derivation": "Ems",
+    "derivation": "Rhein-Lahn-Kreis",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "EN",
     "label": "Ennepe-Ruhr-Kreis",
-    "derivation": "Ennepe",
+    "derivation": "Ennepe-Ruhr-Kreis",
     "region": "Nordrhein-Westfalen"
   },
   {
@@ -872,25 +872,25 @@
   {
     "code": "ERB",
     "label": "Odenwaldkreis",
-    "derivation": "Erbach",
+    "derivation": "Odenwaldkreis",
     "region": "Hessen"
   },
   {
     "code": "ERH",
     "label": "Landkreis Erlangen-Höchstadt",
-    "derivation": "Erlangen, Höchstadt",
+    "derivation": "Erlangen-Höchstadt",
     "region": "Bayern"
   },
   {
     "code": "ERK",
     "label": "Kreis Heinsberg",
-    "derivation": "Erkelenz",
+    "derivation": "Heinsberg",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "ERZ",
     "label": "Erzgebirgskreis",
-    "derivation": "Erzgebirge",
+    "derivation": "Erzgebirgskreis",
     "region": "Sachsen"
   },
   {
@@ -902,13 +902,13 @@
   {
     "code": "ESB",
     "label": "Landkreis Amberg-Sulzbach",
-    "derivation": "EschenBach",
+    "derivation": "Amberg-Sulzbach",
     "region": "Bayern"
   },
   {
     "code": "ESW",
     "label": "Werra-Meißner-Kreis",
-    "derivation": "EschWege",
+    "derivation": "Werra-Meißner-Kreis",
     "region": "Hessen"
   },
   {
@@ -920,73 +920,73 @@
   {
     "code": "EW",
     "label": "Landkreis Barnim",
-    "derivation": "EbersWalde",
+    "derivation": "Barnim",
     "region": "Brandenburg"
   },
   {
     "code": "F",
     "label": "Stadt Frankfurt am Main",
-    "derivation": "Frankfurt",
+    "derivation": "Frankfurt am Main",
     "region": "Hessen"
   },
   {
     "code": "FB",
     "label": "Wetteraukreis",
-    "derivation": "FriedBerg",
+    "derivation": "Wetteraukreis",
     "region": "Hessen"
   },
   {
     "code": "FD",
     "label": "Landkreis Fulda",
-    "derivation": "FulDa",
+    "derivation": "Fulda",
     "region": "Hessen"
   },
   {
     "code": "FDB",
     "label": "Landkreis Aichach-Friedberg",
-    "derivation": "Friedberg",
+    "derivation": "Aichach-Friedberg",
     "region": "Bayern"
   },
   {
     "code": "FDS",
     "label": "Landkreis Freudenstadt",
-    "derivation": "FreuDenStadt",
+    "derivation": "Freudenstadt",
     "region": "Baden-Württemberg"
   },
   {
     "code": "FEU",
     "label": "Landkreis Ansbach",
-    "derivation": "Feuchtwangen",
+    "derivation": "Ansbach",
     "region": "Bayern"
   },
   {
     "code": "FF",
     "label": "Stadt Frankfurt",
-    "derivation": "FrankFurt",
+    "derivation": "Frankfurt",
     "region": "Brandenburg"
   },
   {
     "code": "FFB",
     "label": "Landkreis Fürstenfeldbruck",
-    "derivation": "FürstenFeldBruck",
+    "derivation": "Fürstenfeldbruck",
     "region": "Bayern"
   },
   {
     "code": "FG",
     "label": "Landkreis Mittelsachsen",
-    "derivation": "FreiberG",
+    "derivation": "Mittelsachsen",
     "region": "Sachsen"
   },
   {
     "code": "FI",
     "label": "Landkreis Elbe-Elster",
-    "derivation": "Finsterwalde",
+    "derivation": "Elbe-Elster",
     "region": "Brandenburg"
   },
   {
     "code": "FKB",
     "label": "Landkreis Waldeck-Frankenberg",
-    "derivation": "FranKenBerg",
+    "derivation": "Waldeck-Frankenberg",
     "region": "Hessen"
   },
   {
@@ -998,7 +998,7 @@
   {
     "code": "FN",
     "label": "Bodenseekreis",
-    "derivation": "FriedrichshafeN",
+    "derivation": "Bodenseekreis",
     "region": "Baden-Württemberg"
   },
   {
@@ -1010,19 +1010,19 @@
   {
     "code": "FOR",
     "label": "Landkreis Spree-Neiße",
-    "derivation": "Forst",
+    "derivation": "Spree-Neiße",
     "region": "Brandenburg"
   },
   {
     "code": "FR",
     "label": "Stadt Freiburg im Breisgau",
-    "derivation": "Freiburg",
+    "derivation": "Freiburg im Breisgau",
     "region": "Baden-Württemberg"
   },
   {
     "code": "FRG",
     "label": "Landkreis Freyung-Grafenau",
-    "derivation": "Freyung, Grafenau",
+    "derivation": "Freyung-Grafenau",
     "region": "Bayern"
   },
   {
@@ -1034,37 +1034,37 @@
   {
     "code": "FRW",
     "label": "Landkreis Märkisch-Oderland",
-    "derivation": "FreienWalde",
+    "derivation": "Märkisch-Oderland",
     "region": "Brandenburg"
   },
   {
     "code": "FS",
     "label": "Landkreis Freising",
-    "derivation": "FreiSing",
+    "derivation": "Freising",
     "region": "Bayern"
   },
   {
     "code": "FT",
     "label": "Stadt Frankenthal",
-    "derivation": "FrankenThal",
+    "derivation": "Frankenthal",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "FTL",
     "label": "Landkreis Sächsische Schweiz-Osterzgebirge",
-    "derivation": "FreiTaL",
+    "derivation": "Sächsische Schweiz-Osterzgebirge",
     "region": "Sachsen"
   },
   {
     "code": "FW",
     "label": "Landkreis Oder-Spree",
-    "derivation": "FürstenWalde",
+    "derivation": "Oder-Spree",
     "region": "Brandenburg"
   },
   {
     "code": "FZ",
     "label": "Schwalm-Eder-Kreis",
-    "derivation": "FritZlar",
+    "derivation": "Schwalm-Eder-Kreis",
     "region": "Hessen"
   },
   {
@@ -1076,13 +1076,13 @@
   {
     "code": "GA",
     "label": "Altmarkkreis Salzwedel",
-    "derivation": "Gardelegen",
+    "derivation": "Altmarkkreis Salzwedel",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "GAN",
     "label": "Landkreis Northeim",
-    "derivation": "Gandersheim",
+    "derivation": "Northeim",
     "region": "Niedersachsen"
   },
   {
@@ -1094,19 +1094,19 @@
   {
     "code": "GC",
     "label": "Landkreis Zwickau",
-    "derivation": "GlauChau",
+    "derivation": "Zwickau",
     "region": "Sachsen"
   },
   {
     "code": "GD",
     "label": "Ostalbkreis",
-    "derivation": "GmünD",
+    "derivation": "Ostalbkreis",
     "region": "Baden-Württemberg"
   },
   {
     "code": "GDB",
     "label": "Landkreis Nordwestmecklenburg ohne die Stadt Wismar",
-    "derivation": "GaDeBusch",
+    "derivation": "Nordwestmecklenburg ohne die Stadt Wismar",
     "region": "Mecklenburg-Vorpommern"
   },
   {
@@ -1118,13 +1118,13 @@
   {
     "code": "GEL",
     "label": "Kreis Kleve",
-    "derivation": "Geldern",
+    "derivation": "Kleve",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "GEO",
     "label": "Landkreis Haßberge",
-    "derivation": "GerOlzhofen",
+    "derivation": "Haßberge",
     "region": "Bayern"
   },
   {
@@ -1136,7 +1136,7 @@
   {
     "code": "GF",
     "label": "Landkreis Gifhorn",
-    "derivation": "GiFhorn",
+    "derivation": "Gifhorn",
     "region": "Niedersachsen"
   },
   {
@@ -1148,13 +1148,13 @@
   {
     "code": "GHA",
     "label": "Landkreis Leipzig",
-    "derivation": "Geithain",
+    "derivation": "Leipzig",
     "region": "Sachsen"
   },
   {
     "code": "GHC",
     "label": "Landkreis Wittenberg",
-    "derivation": "GräfenHainiChen",
+    "derivation": "Wittenberg",
     "region": "Sachsen-Anhalt"
   },
   {
@@ -1166,109 +1166,109 @@
   {
     "code": "GK",
     "label": "Kreis Heinsberg",
-    "derivation": "GeilenKirchen",
+    "derivation": "Heinsberg",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "GL",
     "label": "Rheinisch-Bergischer Kreis",
-    "derivation": "Gladbach",
+    "derivation": "Rheinisch-Bergischer Kreis",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "GLA",
     "label": "Kreis Recklinghausen",
-    "derivation": "Gladbeck",
+    "derivation": "Recklinghausen",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "GM",
     "label": "Oberbergischer Kreis",
-    "derivation": "GumMersbach",
+    "derivation": "Oberbergischer Kreis",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "GMN",
     "label": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
-    "derivation": "GrimMeN",
+    "derivation": "Vorpommern-Rügen ohne die Stadt Stralsund",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "GN",
     "label": "Main-Kinzig-Kreis",
-    "derivation": "GelnhauseN",
+    "derivation": "Main-Kinzig-Kreis",
     "region": "Hessen"
   },
   {
     "code": "GNT",
     "label": "Landkreis Jerichower Land",
-    "derivation": "Genthin",
+    "derivation": "Jerichower Land",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "GOA",
     "label": "Rhein-Hunsrück-Kreis",
-    "derivation": "Sanktgoar",
+    "derivation": "Rhein-Hunsrück-Kreis",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "GOH",
     "label": "Rhein-Lahn-Kreis",
-    "derivation": "SanktgoarsHausen",
+    "derivation": "Rhein-Lahn-Kreis",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "GP",
     "label": "Landkreis Göppingen",
-    "derivation": "GöpPingen",
+    "derivation": "Göppingen",
     "region": "Baden-Württemberg"
   },
   {
     "code": "GR",
     "label": "Landkreis Görlitz",
-    "derivation": "GöRlitz",
+    "derivation": "Görlitz",
     "region": "Sachsen"
   },
   {
     "code": "GRA",
     "label": "Landkreis Freyung-Grafenau",
-    "derivation": "Grafenau",
+    "derivation": "Freyung-Grafenau",
     "region": "Bayern"
   },
   {
     "code": "GRH",
     "label": "Landkreis Meißen",
-    "derivation": "GroßenHain",
+    "derivation": "Meißen",
     "region": "Sachsen"
   },
   {
     "code": "GRI",
     "label": "Landkreis Rottal-Inn",
-    "derivation": "Griesbach",
+    "derivation": "Rottal-Inn",
     "region": "Bayern"
   },
   {
     "code": "GRM",
     "label": "Landkreis Leipzig",
-    "derivation": "GrimMa",
+    "derivation": "Leipzig",
     "region": "Sachsen"
   },
   {
     "code": "GRZ",
     "label": "Landkreis Greiz",
-    "derivation": "GreiZ",
+    "derivation": "Greiz",
     "region": "Thüringen"
   },
   {
     "code": "GS",
     "label": "Landkreis Goslar",
-    "derivation": "GoSlar",
+    "derivation": "Goslar",
     "region": "Niedersachsen"
   },
   {
     "code": "GT",
     "label": "Kreis Gütersloh",
-    "derivation": "GüTersloh",
+    "derivation": "Gütersloh",
     "region": "Nordrhein-Westfalen"
   },
   {
@@ -1280,43 +1280,43 @@
   {
     "code": "GUB",
     "label": "Landkreis Spree-Neiße",
-    "derivation": "Guben",
+    "derivation": "Spree-Neiße",
     "region": "Brandenburg"
   },
   {
     "code": "GUN",
     "label": "Landkreis Weißenburg-Gunzenhausen",
-    "derivation": "Gunzenhausen",
+    "derivation": "Weißenburg-Gunzenhausen",
     "region": "Bayern"
   },
   {
     "code": "GV",
     "label": "Rhein-Kreis Neuss",
-    "derivation": "GreVenbroich",
+    "derivation": "Rhein-Kreis Neuss",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "GVM",
     "label": "Landkreis Nordwestmecklenburg ohne die Stadt Wismar",
-    "derivation": "GreVesMühlen",
+    "derivation": "Nordwestmecklenburg ohne die Stadt Wismar",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "GW",
     "label": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
-    "derivation": "GreifsWald",
+    "derivation": "Vorpommern-Greifswald ohne die Stadt Greifswald",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "GZ",
     "label": "Landkreis Günzburg",
-    "derivation": "GünZburg",
+    "derivation": "Günzburg",
     "region": "Bayern"
   },
   {
     "code": "H",
     "label": "Region Hannover Stadt Hannover übrige Region",
-    "derivation": "Hannover",
+    "derivation": "Region Hannover Stadt Hannover übrige Region",
     "region": "Niedersachsen"
   },
   {
@@ -1328,7 +1328,7 @@
   {
     "code": "HAB",
     "label": "Landkreis Bad Kissingen",
-    "derivation": "HammelBurg",
+    "derivation": "Bad Kissingen",
     "region": "Bayern"
   },
   {
@@ -1346,49 +1346,49 @@
   {
     "code": "HAS",
     "label": "Landkreis Haßberge",
-    "derivation": "Hassfurt",
+    "derivation": "Haßberge",
     "region": "Bayern"
   },
   {
     "code": "HBN",
     "label": "Landkreis Hildburghausen",
-    "derivation": "HildBurghauseN",
+    "derivation": "Hildburghausen",
     "region": "Thüringen"
   },
   {
     "code": "HBS",
     "label": "Landkreis Harz",
-    "derivation": "HalBerStadt",
+    "derivation": "Harz",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "HC",
     "label": "Landkreis Mittelsachsen",
-    "derivation": "HainiChen",
+    "derivation": "Mittelsachsen",
     "region": "Sachsen"
   },
   {
     "code": "HCH",
     "label": "Landkreis Freudenstadt",
-    "derivation": "Hechingen",
+    "derivation": "Freudenstadt",
     "region": "Baden-Württemberg"
   },
   {
     "code": "HD",
     "label": "Stadt Heidelberg",
-    "derivation": "HeiDelberg",
+    "derivation": "Heidelberg",
     "region": "Baden-Württemberg"
   },
   {
     "code": "HDH",
     "label": "Landkreis Heidenheim",
-    "derivation": "HeiDenHeim",
+    "derivation": "Heidenheim",
     "region": "Baden-Württemberg"
   },
   {
     "code": "HDL",
     "label": "Landkreis Börde",
-    "derivation": "HalDensLeben",
+    "derivation": "Börde",
     "region": "Sachsen-Anhalt"
   },
   {
@@ -1400,19 +1400,19 @@
   {
     "code": "HEB",
     "label": "Landkreis Nürnberger Land",
-    "derivation": "HersBruck",
+    "derivation": "Nürnberger Land",
     "region": "Bayern"
   },
   {
     "code": "HEF",
     "label": "Landkreis Hersfeld-Rotenburg",
-    "derivation": "HersFeld",
+    "derivation": "Hersfeld-Rotenburg",
     "region": "Hessen"
   },
   {
     "code": "HEI",
     "label": "Kreis Dithmarschen",
-    "derivation": "Heide",
+    "derivation": "Dithmarschen",
     "region": "Schleswig-Holstein"
   },
   {
@@ -1424,37 +1424,37 @@
   {
     "code": "HET",
     "label": "Landkreis Mansfeld-Südharz",
-    "derivation": "Hettstedt",
+    "derivation": "Mansfeld-Südharz",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "HF",
     "label": "Kreis Herford",
-    "derivation": "HerFord",
+    "derivation": "Herford",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "HG",
     "label": "Hochtaunuskreis",
-    "derivation": "HomburG",
+    "derivation": "Hochtaunuskreis",
     "region": "Hessen"
   },
   {
     "code": "HGN",
     "label": "Landkreis Ludwigslust-Parchim",
-    "derivation": "HaGeNow",
+    "derivation": "Ludwigslust-Parchim",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "HGW",
     "label": "Stadt Greifswald",
-    "derivation": "HansestadtGreifsWald",
+    "derivation": "Greifswald",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "HHM",
     "label": "Burgenlandkreis",
-    "derivation": "HoHenMölsen",
+    "derivation": "Burgenlandkreis",
     "region": "Sachsen-Anhalt"
   },
   {
@@ -1466,37 +1466,37 @@
   {
     "code": "HIG",
     "label": "Landkreis Eichsfeld",
-    "derivation": "Heiligenstadt",
+    "derivation": "Eichsfeld",
     "region": "Thüringen"
   },
   {
     "code": "HIP",
     "label": "Landkreis Roth",
-    "derivation": "HilPoltstein",
+    "derivation": "Roth",
     "region": "Bayern"
   },
   {
     "code": "HK",
     "label": "Landkreis Heidekreis",
-    "derivation": "HeideKreis",
+    "derivation": "Heidekreis",
     "region": "Niedersachsen"
   },
   {
     "code": "HL",
     "label": "Stadt Lübeck",
-    "derivation": "HansestadtLübeck",
+    "derivation": "Lübeck",
     "region": "Schleswig-Holstein"
   },
   {
     "code": "HM",
     "label": "Landkreis Hameln-Pyrmont",
-    "derivation": "HaMeln",
+    "derivation": "Hameln-Pyrmont",
     "region": "Niedersachsen"
   },
   {
     "code": "HN",
     "label": "Stadt Heilbronn",
-    "derivation": "HeilbronN",
+    "derivation": "Heilbronn",
     "region": "Baden-Württemberg"
   },
   {
@@ -1508,13 +1508,13 @@
   {
     "code": "HOG",
     "label": "Landkreis Kassel",
-    "derivation": "HofGeismar",
+    "derivation": "Kassel",
     "region": "Hessen"
   },
   {
     "code": "HOH",
     "label": "Landkreis Haßberge",
-    "derivation": "HofHeim",
+    "derivation": "Haßberge",
     "region": "Bayern"
   },
   {
@@ -1526,103 +1526,103 @@
   {
     "code": "HOM",
     "label": "Saarpfalz-Kreis ohne die Stadt St. Ingbert",
-    "derivation": "Homburg",
+    "derivation": "Saarpfalz-Kreis ohne die Stadt St. Ingbert",
     "region": "Saarland"
   },
   {
     "code": "HOR",
     "label": "Landkreis Freudenstadt",
-    "derivation": "Horb",
+    "derivation": "Freudenstadt",
     "region": "Baden-Württemberg"
   },
   {
     "code": "HOT",
     "label": "Landkreis Zwickau",
-    "derivation": "HohensTein",
+    "derivation": "Zwickau",
     "region": "Sachsen"
   },
   {
     "code": "HP",
     "label": "Landkreis Bergstraße",
-    "derivation": "HepPenheim",
+    "derivation": "Bergstraße",
     "region": "Hessen"
   },
   {
     "code": "HR",
     "label": "Schwalm-Eder-Kreis",
-    "derivation": "HombeRg",
+    "derivation": "Schwalm-Eder-Kreis",
     "region": "Hessen"
   },
   {
     "code": "HRO",
     "label": "Stadt Rostock",
-    "derivation": "Hansestadtrostock",
+    "derivation": "Rostock",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "HS",
     "label": "Kreis Heinsberg",
-    "derivation": "HeinSberg",
+    "derivation": "Heinsberg",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "HSK",
     "label": "Hochsauerlandkreis",
-    "derivation": "HochSauerlandKreis",
+    "derivation": "Hochsauerlandkreis",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "HST",
     "label": "Stadt Stralsund",
-    "derivation": "Hansestadtstralsund",
+    "derivation": "Stralsund",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "HU",
     "label": "Stadt Hanau",
-    "derivation": "HanaU",
+    "derivation": "Hanau",
     "region": "Hessen"
   },
   {
     "code": "HV",
     "label": "Landkreis Stendal",
-    "derivation": "HaVelberg",
+    "derivation": "Stendal",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "HVL",
     "label": "Landkreis Havelland",
-    "derivation": "HaVelLand",
+    "derivation": "Havelland",
     "region": "Brandenburg"
   },
   {
     "code": "HWI",
     "label": "Stadt Wismar",
-    "derivation": "Hansestadtwismar",
+    "derivation": "Wismar",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "HX",
     "label": "Kreis Höxter",
-    "derivation": "HöXter",
+    "derivation": "Höxter",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "HY",
     "label": "Landkreis Bautzen",
-    "derivation": "HoYerswerda",
+    "derivation": "Bautzen",
     "region": "Sachsen"
   },
   {
     "code": "HZ",
     "label": "Landkreis Harz",
-    "derivation": "HarZ",
+    "derivation": "Harz",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "IGB",
     "label": "Stadt St. Ingbert",
-    "derivation": "Ingbert",
+    "derivation": "St. Ingbert",
     "region": "Saarland"
   },
   {
@@ -1634,13 +1634,13 @@
   {
     "code": "IL",
     "label": "Ilm-Kreis",
-    "derivation": "Ilmenau",
+    "derivation": "Ilm-Kreis",
     "region": "Thüringen"
   },
   {
     "code": "ILL",
     "label": "Landkreis Neu-Ulm",
-    "derivation": "Illertissen",
+    "derivation": "Neu-Ulm",
     "region": "Bayern"
   },
   {
@@ -1652,7 +1652,7 @@
   {
     "code": "IZ",
     "label": "Kreis Steinburg",
-    "derivation": "ItZehoe",
+    "derivation": "Steinburg",
     "region": "Schleswig-Holstein"
   },
   {
@@ -1664,19 +1664,19 @@
   {
     "code": "JB",
     "label": "Landkreis Teltow-Fläming",
-    "derivation": "JüterBog",
+    "derivation": "Teltow-Fläming",
     "region": "Brandenburg"
   },
   {
     "code": "JE",
     "label": "Landkreis Wittenberg",
-    "derivation": "Jessen",
+    "derivation": "Wittenberg",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "JL",
     "label": "Landkreis Jerichower Land",
-    "derivation": "JerichowerLand",
+    "derivation": "Jerichower Land",
     "region": "Sachsen-Anhalt"
   },
   {
@@ -1694,13 +1694,13 @@
   {
     "code": "KB",
     "label": "Landkreis Waldeck-Frankenberg",
-    "derivation": "KorBach",
+    "derivation": "Waldeck-Frankenberg",
     "region": "Hessen"
   },
   {
     "code": "KC",
     "label": "Landkreis Kronach",
-    "derivation": "KronaCh",
+    "derivation": "Kronach",
     "region": "Bayern"
   },
   {
@@ -1712,37 +1712,37 @@
   {
     "code": "KEH",
     "label": "Landkreis Kelheim",
-    "derivation": "KelHeim",
+    "derivation": "Kelheim",
     "region": "Bayern"
   },
   {
     "code": "KEL",
     "label": "Ortenaukreis",
-    "derivation": "KehL",
+    "derivation": "Ortenaukreis",
     "region": "Baden-Württemberg"
   },
   {
     "code": "KEM",
     "label": "Landkreis Bayreuth",
-    "derivation": "Kemnath",
+    "derivation": "Bayreuth",
     "region": "Bayern"
   },
   {
     "code": "KF",
     "label": "Stadt Kaufbeuren",
-    "derivation": "KauFbeuren",
+    "derivation": "Kaufbeuren",
     "region": "Bayern"
   },
   {
     "code": "KG",
     "label": "Landkreis Bad Kissingen",
-    "derivation": "KissinGen",
+    "derivation": "Bad Kissingen",
     "region": "Bayern"
   },
   {
     "code": "KH",
     "label": "Landkreis Bad Kreuznach",
-    "derivation": "KreuznacH",
+    "derivation": "Bad Kreuznach",
     "region": "Rheinland-Pfalz"
   },
   {
@@ -1754,19 +1754,19 @@
   {
     "code": "KIB",
     "label": "Donnersbergkreis",
-    "derivation": "KirchheimBolanden",
+    "derivation": "Donnersbergkreis",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "KK",
     "label": "Kreis Viersen",
-    "derivation": "Kempen, Krefeld",
+    "derivation": "Viersen",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "KL",
     "label": "Stadt Kaiserslautern",
-    "derivation": "KaisersLautern",
+    "derivation": "Kaiserslautern",
     "region": "Rheinland-Pfalz"
   },
   {
@@ -1778,19 +1778,19 @@
   {
     "code": "KLZ",
     "label": "Altmarkkreis Salzwedel",
-    "derivation": "KlötZe",
+    "derivation": "Altmarkkreis Salzwedel",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "KM",
     "label": "Landkreis Bautzen",
-    "derivation": "KaMenz",
+    "derivation": "Bautzen",
     "region": "Sachsen"
   },
   {
     "code": "KN",
     "label": "Landkreis Konstanz ohne die Gemeinde Büsingen am Hochrhein",
-    "derivation": "KoNstanz",
+    "derivation": "Konstanz ohne die Gemeinde Büsingen am Hochrhein",
     "region": "Baden-Württemberg"
   },
   {
@@ -1808,19 +1808,19 @@
   {
     "code": "KRU",
     "label": "Landkreis Günzburg",
-    "derivation": "Krumbach",
+    "derivation": "Günzburg",
     "region": "Bayern"
   },
   {
     "code": "KS",
     "label": "Landkreis Kassel und Stadt Kassel",
-    "derivation": "KasSel",
+    "derivation": "Kassel und Stadt Kassel",
     "region": "Hessen"
   },
   {
     "code": "KT",
     "label": "Landkreis Kitzingen",
-    "derivation": "KiTzingen",
+    "derivation": "Kitzingen",
     "region": "Bayern"
   },
   {
@@ -1838,19 +1838,19 @@
   {
     "code": "KW",
     "label": "Landkreis Dahme-Spreewald",
-    "derivation": "KönigsWusterhausen",
+    "derivation": "Dahme-Spreewald",
     "region": "Brandenburg"
   },
   {
     "code": "KY",
     "label": "Landkreis Ostprignitz-Ruppin",
-    "derivation": "Kyritz",
+    "derivation": "Ostprignitz-Ruppin",
     "region": "Brandenburg"
   },
   {
     "code": "KYF",
     "label": "Kyffhäuserkreis",
-    "derivation": "Kyffhäuser",
+    "derivation": "Kyffhäuserkreis",
     "region": "Thüringen"
   },
   {
@@ -1868,43 +1868,43 @@
   {
     "code": "LAN",
     "label": "Landkreis Dingolfing-Landau",
-    "derivation": "Landau",
+    "derivation": "Dingolfing-Landau",
     "region": "Bayern"
   },
   {
     "code": "LAU",
     "label": "Landkreis Nürnberger Land",
-    "derivation": "Lauf",
+    "derivation": "Nürnberger Land",
     "region": "Bayern"
   },
   {
     "code": "LB",
     "label": "Landkreis Ludwigsburg",
-    "derivation": "LudwigsBurg",
+    "derivation": "Ludwigsburg",
     "region": "Baden-Württemberg"
   },
   {
     "code": "LBS",
     "label": "Saale-Orla-Kreis",
-    "derivation": "LoBenStein",
+    "derivation": "Saale-Orla-Kreis",
     "region": "Thüringen"
   },
   {
     "code": "LBZ",
     "label": "Landkreis Ludwigslust-Parchim",
-    "derivation": "Lübz",
+    "derivation": "Ludwigslust-Parchim",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "LC",
     "label": "Landkreis Dahme-Spreewald",
-    "derivation": "LuCkau",
+    "derivation": "Dahme-Spreewald",
     "region": "Brandenburg"
   },
   {
     "code": "LD",
     "label": "Stadt Landau in der Pfalz",
-    "derivation": "LanDau",
+    "derivation": "Landau in der Pfalz",
     "region": "Rheinland-Pfalz"
   },
   {
@@ -1916,25 +1916,25 @@
   {
     "code": "LDS",
     "label": "Landkreis Dahme-Spreewald",
-    "derivation": "LandkreisDahme-Spreewald",
+    "derivation": "Dahme-Spreewald",
     "region": "Brandenburg"
   },
   {
     "code": "LE",
     "label": "Kreis Lippe",
-    "derivation": "Lemgo",
+    "derivation": "Lippe",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "LEO",
     "label": "Landkreis Böblingen",
-    "derivation": "Leonberg",
+    "derivation": "Böblingen",
     "region": "Baden-Württemberg"
   },
   {
     "code": "LER",
     "label": "Landkreis Leer",
-    "derivation": "LeeR",
+    "derivation": "Leer",
     "region": "Niedersachsen"
   },
   {
@@ -1946,19 +1946,19 @@
   {
     "code": "LF",
     "label": "Landkreis Altötting",
-    "derivation": "LauFen",
+    "derivation": "Altötting",
     "region": "Bayern"
   },
   {
     "code": "LG",
     "label": "Landkreis Lüneburg",
-    "derivation": "LüneburG",
+    "derivation": "Lüneburg",
     "region": "Niedersachsen"
   },
   {
     "code": "LH",
     "label": "Kreis Coesfeld",
-    "derivation": "LüdingHausen",
+    "derivation": "Coesfeld",
     "region": "Nordrhein-Westfalen"
   },
   {
@@ -1970,13 +1970,13 @@
   {
     "code": "LIB",
     "label": "Landkreis Elbe-Elster",
-    "derivation": "LieBenwerda",
+    "derivation": "Elbe-Elster",
     "region": "Brandenburg"
   },
   {
     "code": "LIF",
     "label": "Landkreis Lichtenfels",
-    "derivation": "LichtenFels",
+    "derivation": "Lichtenfels",
     "region": "Bayern"
   },
   {
@@ -1988,79 +1988,79 @@
   {
     "code": "LK",
     "label": "Kreis Minden-Lübbecke",
-    "derivation": "LübbecKe",
+    "derivation": "Minden-Lübbecke",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "LL",
     "label": "Landkreis Landsberg am Lech",
-    "derivation": "Landsberg amLech",
+    "derivation": "Landsberg am Lech",
     "region": "Bayern"
   },
   {
     "code": "LM",
     "label": "Landkreis Limburg-Weilburg",
-    "derivation": "LiMburg",
+    "derivation": "Limburg-Weilburg",
     "region": "Hessen"
   },
   {
     "code": "LN",
     "label": "Landkreis Dahme-Spreewald",
-    "derivation": "LübbeN",
+    "derivation": "Dahme-Spreewald",
     "region": "Brandenburg"
   },
   {
     "code": "LOS",
     "label": "Landkreis Oder-Spree",
-    "derivation": "LandkreisOder-Spree",
+    "derivation": "Oder-Spree",
     "region": "Brandenburg"
   },
   {
     "code": "LP",
     "label": "Kreis Soest",
-    "derivation": "LiPpstadt",
+    "derivation": "Soest",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "LR",
     "label": "Ortenaukreis",
-    "derivation": "LahR",
+    "derivation": "Ortenaukreis",
     "region": "Baden-Württemberg"
   },
   {
     "code": "LRO",
     "label": "Landkreis Rostock",
-    "derivation": "Landkreisrostock",
+    "derivation": "Rostock",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "LSZ",
     "label": "Unstrut-Hainich-Kreis",
-    "derivation": "LangenSalZa",
+    "derivation": "Unstrut-Hainich-Kreis",
     "region": "Thüringen"
   },
   {
     "code": "LU",
     "label": "Stadt Ludwigshafen am Rhein",
-    "derivation": "Ludwigshafen",
+    "derivation": "Ludwigshafen am Rhein",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "LUK",
     "label": "Landkreis Teltow-Fläming",
-    "derivation": "LucKenwalde",
+    "derivation": "Teltow-Fläming",
     "region": "Brandenburg"
   },
   {
     "code": "LUP",
     "label": "Landkreis Ludwigslust-Parchim",
-    "derivation": "Ludwigslust, Parchim",
+    "derivation": "Ludwigslust-Parchim",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "LWL",
     "label": "Landkreis Ludwigslust-Parchim",
-    "derivation": "LudWigsLust",
+    "derivation": "Ludwigslust-Parchim",
     "region": "Mecklenburg-Vorpommern"
   },
   {
@@ -2078,43 +2078,43 @@
   {
     "code": "MAB",
     "label": "Erzgebirgskreis",
-    "derivation": "MarienBerg",
+    "derivation": "Erzgebirgskreis",
     "region": "Sachsen"
   },
   {
     "code": "MAI",
     "label": "Landkreis Kelheim",
-    "derivation": "Mainburg",
+    "derivation": "Kelheim",
     "region": "Bayern"
   },
   {
     "code": "MAK",
     "label": "Landkreis Wunsiedel im Fichtelgebirge",
-    "derivation": "MarKtredwitz",
+    "derivation": "Wunsiedel im Fichtelgebirge",
     "region": "Bayern"
   },
   {
     "code": "MAL",
     "label": "Landkreis Landshut",
-    "derivation": "Mallersdorf",
+    "derivation": "Landshut",
     "region": "Bayern"
   },
   {
     "code": "MB",
     "label": "Landkreis Miesbach",
-    "derivation": "MiesBach",
+    "derivation": "Miesbach",
     "region": "Bayern"
   },
   {
     "code": "MC",
     "label": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-    "derivation": "MalChin",
+    "derivation": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "MD",
     "label": "Stadt Magdeburg",
-    "derivation": "MagDeburg",
+    "derivation": "Magdeburg",
     "region": "Sachsen-Anhalt"
   },
   {
@@ -2126,13 +2126,13 @@
   {
     "code": "MED",
     "label": "Kreis Dithmarschen",
-    "derivation": "MelDorf",
+    "derivation": "Dithmarschen",
     "region": "Schleswig-Holstein"
   },
   {
     "code": "MEG",
     "label": "Schwalm-Eder-Kreis",
-    "derivation": "MelsunGen",
+    "derivation": "Schwalm-Eder-Kreis",
     "region": "Hessen"
   },
   {
@@ -2144,61 +2144,61 @@
   {
     "code": "MEK",
     "label": "Erzgebirgskreis",
-    "derivation": "MittlererErzgebirgsKreis",
+    "derivation": "Erzgebirgskreis",
     "region": "Sachsen"
   },
   {
     "code": "MEL",
     "label": "Landkreis Osnabrück",
-    "derivation": "Melle",
+    "derivation": "Osnabrück",
     "region": "Niedersachsen"
   },
   {
     "code": "MER",
     "label": "Saalekreis",
-    "derivation": "Merseburg",
+    "derivation": "Saalekreis",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "MET",
     "label": "Landkreis Rhön-Grabfeld",
-    "derivation": "MellrichstadT",
+    "derivation": "Rhön-Grabfeld",
     "region": "Bayern"
   },
   {
     "code": "MG",
     "label": "Stadt Mönchengladbach",
-    "derivation": "MönchenGladbach",
+    "derivation": "Mönchengladbach",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "MGH",
     "label": "Main-Tauber-Kreis",
-    "derivation": "MerGentHeim",
+    "derivation": "Main-Tauber-Kreis",
     "region": "Baden-Württemberg"
   },
   {
     "code": "MGN",
     "label": "Landkreis Schmalkalden-Meiningen",
-    "derivation": "MeininGeN",
+    "derivation": "Schmalkalden-Meiningen",
     "region": "Thüringen"
   },
   {
     "code": "MH",
     "label": "Stadt Mülheim an der Ruhr",
-    "derivation": "MülHeim",
+    "derivation": "Mülheim an der Ruhr",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "MHL",
     "label": "Unstrut-Hainich-Kreis",
-    "derivation": "Mühlhausen",
+    "derivation": "Unstrut-Hainich-Kreis",
     "region": "Thüringen"
   },
   {
     "code": "MI",
     "label": "Kreis Minden-Lübbecke",
-    "derivation": "Minden",
+    "derivation": "Minden-Lübbecke",
     "region": "Nordrhein-Westfalen"
   },
   {
@@ -2210,7 +2210,7 @@
   {
     "code": "MK",
     "label": "Märkischer Kreis",
-    "derivation": "MärkischerKreis",
+    "derivation": "Märkischer Kreis",
     "region": "Nordrhein-Westfalen"
   },
   {
@@ -2222,91 +2222,91 @@
   {
     "code": "ML",
     "label": "Landkreis Mansfeld-Südharz",
-    "derivation": "MansfelderLand",
+    "derivation": "Mansfeld-Südharz",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "MM",
     "label": "Stadt Memmingen",
-    "derivation": "MemMingen",
+    "derivation": "Memmingen",
     "region": "Bayern"
   },
   {
     "code": "MN",
     "label": "Landkreis Unterallgäu",
-    "derivation": "MiNdelheim",
+    "derivation": "Unterallgäu",
     "region": "Bayern"
   },
   {
     "code": "MO",
     "label": "Kreis Wesel",
-    "derivation": "Moers",
+    "derivation": "Wesel",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "MOD",
     "label": "Landkreis Ostallgäu",
-    "derivation": "MarktOberDorf",
+    "derivation": "Ostallgäu",
     "region": "Bayern"
   },
   {
     "code": "MOL",
     "label": "Landkreis Märkisch-Oderland",
-    "derivation": "Märkisch-OderLand",
+    "derivation": "Märkisch-Oderland",
     "region": "Brandenburg"
   },
   {
     "code": "MON",
     "label": "Städteregion Aachen",
-    "derivation": "Monschau",
+    "derivation": "Aachen",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "MOS",
     "label": "Neckar-Odenwald-Kreis",
-    "derivation": "Mosbach",
+    "derivation": "Neckar-Odenwald-Kreis",
     "region": "Baden-Württemberg"
   },
   {
     "code": "MQ",
     "label": "Saalekreis",
-    "derivation": "Merseburg, Querfurt",
+    "derivation": "Saalekreis",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "MR",
     "label": "Landkreis Marburg-Biedenkopf",
-    "derivation": "MaRburg",
+    "derivation": "Marburg-Biedenkopf",
     "region": "Hessen"
   },
   {
     "code": "MS",
     "label": "Stadt Münster",
-    "derivation": "MünSter",
+    "derivation": "Münster",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "MSE",
     "label": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-    "derivation": "Mecklenburgischeseenplatte",
+    "derivation": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "MSH",
     "label": "Landkreis Mansfeld-Südharz",
-    "derivation": "Mansfeld, SüdHarz",
+    "derivation": "Mansfeld-Südharz",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "MSP",
     "label": "Landkreis Main-Spessart",
-    "derivation": "Main, Spessart",
+    "derivation": "Main-Spessart",
     "region": "Bayern"
   },
   {
     "code": "MST",
     "label": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-    "derivation": "Mecklenburg-Strelitz",
+    "derivation": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
     "region": "Mecklenburg-Vorpommern"
   },
   {
@@ -2318,49 +2318,49 @@
   {
     "code": "MTL",
     "label": "Landkreis Leipzig",
-    "derivation": "MuldenTaL",
+    "derivation": "Leipzig",
     "region": "Sachsen"
   },
   {
     "code": "MU",
     "label": "Landkreis München",
-    "derivation": "MünchnerUmland",
+    "derivation": "München",
     "region": "Bayern"
   },
   {
     "code": "MUC",
     "label": "Stadt München",
-    "derivation": "MuenChen",
+    "derivation": "München",
     "region": "Bayern"
   },
   {
     "code": "MW",
     "label": "Landkreis Mittelsachsen",
-    "derivation": "MittWeida",
+    "derivation": "Mittelsachsen",
     "region": "Sachsen"
   },
   {
     "code": "MY",
     "label": "Landkreis Mayen-Koblenz",
-    "derivation": "MaYen",
+    "derivation": "Mayen-Koblenz",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "MYK",
     "label": "Landkreis Mayen-Koblenz",
-    "derivation": "MaYen, Koblenz",
+    "derivation": "Mayen-Koblenz",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "MZ",
     "label": "Stadt Mainz",
-    "derivation": "MainZ",
+    "derivation": "Mainz",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "MZG",
     "label": "Landkreis Merzig-Wadern",
-    "derivation": "MerZiG",
+    "derivation": "Merzig-Wadern",
     "region": "Saarland"
   },
   {
@@ -2372,31 +2372,31 @@
   {
     "code": "NAB",
     "label": "Landkreis Amberg-Sulzbach",
-    "derivation": "Nabburg",
+    "derivation": "Amberg-Sulzbach",
     "region": "Bayern"
   },
   {
     "code": "NAI",
     "label": "Landkreis Hof",
-    "derivation": "Naila",
+    "derivation": "Hof",
     "region": "Bayern"
   },
   {
     "code": "NAU",
     "label": "Landkreis Havelland",
-    "derivation": "Nauen",
+    "derivation": "Havelland",
     "region": "Brandenburg"
   },
   {
     "code": "NB",
     "label": "Stadt Neubrandenburg",
-    "derivation": "NeuBrandenburg",
+    "derivation": "Neubrandenburg",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "ND",
     "label": "Landkreis Neuburg-Schrobenhausen",
-    "derivation": "Neuburg an derDonau",
+    "derivation": "Neuburg-Schrobenhausen",
     "region": "Bayern"
   },
   {
@@ -2408,133 +2408,133 @@
   {
     "code": "NE",
     "label": "Rhein-Kreis Neuss",
-    "derivation": "Neuss",
+    "derivation": "Rhein-Kreis Neuss",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "NEA",
     "label": "Landkreis Neustadt an der Aisch-Bad Windsheim",
-    "derivation": "Neustadt an derAisch",
+    "derivation": "Neustadt an der Aisch-Bad Windsheim",
     "region": "Bayern"
   },
   {
     "code": "NEB",
     "label": "Burgenlandkreis",
-    "derivation": "Nebra",
+    "derivation": "Burgenlandkreis",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "NEC",
     "label": "Stadt Coburg und Landkreis Coburg",
-    "derivation": "Neustadt beiCoburg",
+    "derivation": "Coburg und Landkreis Coburg",
     "region": "Bayern"
   },
   {
     "code": "NEN",
     "label": "Landkreis Schwandorf",
-    "derivation": "NeuNburg",
+    "derivation": "Schwandorf",
     "region": "Bayern"
   },
   {
     "code": "NES",
     "label": "Landkreis Rhön-Grabfeld",
-    "derivation": "Neustadt an derSaale",
+    "derivation": "Rhön-Grabfeld",
     "region": "Bayern"
   },
   {
     "code": "NEU",
     "label": "Landkreis Breisgau-Hochschwarzwald",
-    "derivation": "Neustadt",
+    "derivation": "Breisgau-Hochschwarzwald",
     "region": "Baden-Württemberg"
   },
   {
     "code": "NEW",
     "label": "Landkreis Neustadt an der Waldnaab",
-    "derivation": "Neustadt an derWaldnaab",
+    "derivation": "Neustadt an der Waldnaab",
     "region": "Bayern"
   },
   {
     "code": "NF",
     "label": "Kreis Nordfriesland",
-    "derivation": "NordFriesland",
+    "derivation": "Nordfriesland",
     "region": "Schleswig-Holstein"
   },
   {
     "code": "NH",
     "label": "Landkreis Sonneberg",
-    "derivation": "NeuHaus",
+    "derivation": "Sonneberg",
     "region": "Thüringen"
   },
   {
     "code": "NI",
     "label": "Landkreis Nienburg/Weser",
-    "derivation": "Nienburg",
+    "derivation": "Nienburg/Weser",
     "region": "Niedersachsen"
   },
   {
     "code": "NK",
     "label": "Landkreis Neunkirchen",
-    "derivation": "NeunKirchen",
+    "derivation": "Neunkirchen",
     "region": "Saarland"
   },
   {
     "code": "NM",
     "label": "Landkreis Neumarkt in der Oberpfalz",
-    "derivation": "NeuMarkt",
+    "derivation": "Neumarkt in der Oberpfalz",
     "region": "Bayern"
   },
   {
     "code": "NMB",
     "label": "Burgenlandkreis",
-    "derivation": "Naumburg",
+    "derivation": "Burgenlandkreis",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "NMS",
     "label": "Stadt Neumünster",
-    "derivation": "NeuMünSter",
+    "derivation": "Neumünster",
     "region": "Schleswig-Holstein"
   },
   {
     "code": "NOH",
     "label": "Landkreis Grafschaft Bentheim",
-    "derivation": "NordHorn",
+    "derivation": "Grafschaft Bentheim",
     "region": "Niedersachsen"
   },
   {
     "code": "NOL",
     "label": "Landkreis Görlitz",
-    "derivation": "NiederschlesischeOberLausitz",
+    "derivation": "Görlitz",
     "region": "Sachsen"
   },
   {
     "code": "NOM",
     "label": "Landkreis Northeim",
-    "derivation": "NortheiM",
+    "derivation": "Northeim",
     "region": "Niedersachsen"
   },
   {
     "code": "NOR",
     "label": "Landkreis Aurich",
-    "derivation": "Norden",
+    "derivation": "Aurich",
     "region": "Niedersachsen"
   },
   {
     "code": "NP",
     "label": "Landkreis Ostprignitz-Ruppin",
-    "derivation": "NeurupPin",
+    "derivation": "Ostprignitz-Ruppin",
     "region": "Brandenburg"
   },
   {
     "code": "NR",
     "label": "Landkreis Neuwied",
-    "derivation": "NeuwiedamRhein",
+    "derivation": "Neuwied",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "NT",
     "label": "Landkreis Esslingen",
-    "derivation": "NürTingen",
+    "derivation": "Esslingen",
     "region": "Baden-Württemberg"
   },
   {
@@ -2546,37 +2546,37 @@
   {
     "code": "NVP",
     "label": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
-    "derivation": "NordVorPommern",
+    "derivation": "Vorpommern-Rügen ohne die Stadt Stralsund",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "NW",
     "label": "Stadt Neustadt an der Weinstraße",
-    "derivation": "Neustadt an derWeinstraße",
+    "derivation": "Neustadt an der Weinstraße",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "NWM",
     "label": "Landkreis Nordwestmecklenburg ohne die Stadt Wismar",
-    "derivation": "NordWestMecklenburg",
+    "derivation": "Nordwestmecklenburg ohne die Stadt Wismar",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "NY",
     "label": "Landkreis Görlitz",
-    "derivation": "NieskY",
+    "derivation": "Görlitz",
     "region": "Sachsen"
   },
   {
     "code": "NZ",
     "label": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-    "derivation": "NeustrelitZ",
+    "derivation": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "OA",
     "label": "Landkreis Oberallgäu",
-    "derivation": "OberAllgäu",
+    "derivation": "Oberallgäu",
     "region": "Bayern"
   },
   {
@@ -2594,79 +2594,79 @@
   {
     "code": "OBB",
     "label": "Landkreis Miltenberg",
-    "derivation": "ObernBurg",
+    "derivation": "Miltenberg",
     "region": "Bayern"
   },
   {
     "code": "OBG",
     "label": "Landkreis Stendal",
-    "derivation": "OsterBurG",
+    "derivation": "Stendal",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "OC",
     "label": "Landkreis Börde",
-    "derivation": "OsChersleben",
+    "derivation": "Börde",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "OCH",
     "label": "Landkreis Würzburg",
-    "derivation": "Ochsenfurt",
+    "derivation": "Würzburg",
     "region": "Bayern"
   },
   {
     "code": "OD",
     "label": "Kreis Stormarn",
-    "derivation": "OlDesloe",
+    "derivation": "Stormarn",
     "region": "Schleswig-Holstein"
   },
   {
     "code": "OE",
     "label": "Kreis Olpe",
-    "derivation": "OlpE",
+    "derivation": "Olpe",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "OF",
     "label": "Landkreis Offenbach und Stadt Offenbach am Main",
-    "derivation": "Offenbach",
+    "derivation": "Offenbach und Stadt Offenbach am Main",
     "region": "Hessen"
   },
   {
     "code": "OG",
     "label": "Ortenaukreis",
-    "derivation": "OffenburG",
+    "derivation": "Ortenaukreis",
     "region": "Baden-Württemberg"
   },
   {
     "code": "OH",
     "label": "Kreis Ostholstein",
-    "derivation": "OstHolstein",
+    "derivation": "Ostholstein",
     "region": "Schleswig-Holstein"
   },
   {
     "code": "OHA",
     "label": "Landkreis Göttingen ohne die Stadt Göttingen",
-    "derivation": "Osterode amharz",
+    "derivation": "Göttingen ohne die Stadt Göttingen",
     "region": "Niedersachsen"
   },
   {
     "code": "OHV",
     "label": "Landkreis Oberhavel",
-    "derivation": "OberHaVel",
+    "derivation": "Oberhavel",
     "region": "Brandenburg"
   },
   {
     "code": "OHZ",
     "label": "Landkreis Osterholz",
-    "derivation": "OsterHolZ",
+    "derivation": "Osterholz",
     "region": "Niedersachsen"
   },
   {
     "code": "OK",
     "label": "Landkreis Börde",
-    "derivation": "OhreKreis",
+    "derivation": "Börde",
     "region": "Sachsen-Anhalt"
   },
   {
@@ -2678,13 +2678,13 @@
   {
     "code": "OP",
     "label": "Stadt Leverkusen",
-    "derivation": "Opladen",
+    "derivation": "Leverkusen",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "OPR",
     "label": "Landkreis Ostprignitz-Ruppin",
-    "derivation": "OstPrignitz, Ruppin",
+    "derivation": "Ostprignitz-Ruppin",
     "region": "Brandenburg"
   },
   {
@@ -2696,31 +2696,31 @@
   {
     "code": "OSL",
     "label": "Landkreis Oberspreewald-Lausitz",
-    "derivation": "OberSpreewald, Lausitz",
+    "derivation": "Oberspreewald-Lausitz",
     "region": "Brandenburg"
   },
   {
     "code": "OTW",
     "label": "Landkreis Neunkirchen",
-    "derivation": "OttWeiler",
+    "derivation": "Neunkirchen",
     "region": "Saarland"
   },
   {
     "code": "OVI",
     "label": "Landkreis Schwandorf",
-    "derivation": "Oberviechtach",
+    "derivation": "Schwandorf",
     "region": "Bayern"
   },
   {
     "code": "OVL",
     "label": "Vogtlandkreis",
-    "derivation": "OberVogtLand",
+    "derivation": "Vogtlandkreis",
     "region": "Sachsen"
   },
   {
     "code": "OZ",
     "label": "Landkreis Nordsachsen",
-    "derivation": "OschatZ",
+    "derivation": "Nordsachsen",
     "region": "Sachsen"
   },
   {
@@ -2738,31 +2738,31 @@
   {
     "code": "PAF",
     "label": "Landkreis Pfaffenhofen an der Ilm",
-    "derivation": "Pfaffenhofen",
+    "derivation": "Pfaffenhofen an der Ilm",
     "region": "Bayern"
   },
   {
     "code": "PAN",
     "label": "Landkreis Rottal-Inn",
-    "derivation": "PfArrkircheN",
+    "derivation": "Rottal-Inn",
     "region": "Bayern"
   },
   {
     "code": "PAR",
     "label": "Landkreis Kelheim",
-    "derivation": "Parsberg",
+    "derivation": "Kelheim",
     "region": "Bayern"
   },
   {
     "code": "PB",
     "label": "Kreis Paderborn",
-    "derivation": "PaderBorn",
+    "derivation": "Paderborn",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "PCH",
     "label": "Landkreis Ludwigslust-Parchim",
-    "derivation": "Parchim",
+    "derivation": "Ludwigslust-Parchim",
     "region": "Mecklenburg-Vorpommern"
   },
   {
@@ -2774,7 +2774,7 @@
   {
     "code": "PEG",
     "label": "Landkreis Bayreuth",
-    "derivation": "Pegnitz",
+    "derivation": "Bayreuth",
     "region": "Bayern"
   },
   {
@@ -2792,25 +2792,25 @@
   {
     "code": "PIR",
     "label": "Landkreis Sächsische Schweiz-Osterzgebirge",
-    "derivation": "Pirna",
+    "derivation": "Sächsische Schweiz-Osterzgebirge",
     "region": "Sachsen"
   },
   {
     "code": "PL",
     "label": "Vogtlandkreis",
-    "derivation": "Plauen",
+    "derivation": "Vogtlandkreis",
     "region": "Sachsen"
   },
   {
     "code": "PM",
     "label": "Landkreis Potsdam-Mittelmark",
-    "derivation": "Potsdam, Mittelmark",
+    "derivation": "Potsdam-Mittelmark",
     "region": "Brandenburg"
   },
   {
     "code": "PN",
     "label": "Saale-Orla-Kreis",
-    "derivation": "PößNeck",
+    "derivation": "Saale-Orla-Kreis",
     "region": "Thüringen"
   },
   {
@@ -2822,31 +2822,31 @@
   {
     "code": "PS",
     "label": "Stadt Pirmasens",
-    "derivation": "PirmaSens",
+    "derivation": "Pirmasens",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "PW",
     "label": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
-    "derivation": "PaseWalk",
+    "derivation": "Vorpommern-Greifswald ohne die Stadt Greifswald",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "PZ",
     "label": "Landkreis Uckermark",
-    "derivation": "PrenZlau",
+    "derivation": "Uckermark",
     "region": "Brandenburg"
   },
   {
     "code": "QFT",
     "label": "Saalekreis",
-    "derivation": "QuerFurT",
+    "derivation": "Saalekreis",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "QLB",
     "label": "Landkreis Harz",
-    "derivation": "QuedLinBurg",
+    "derivation": "Harz",
     "region": "Sachsen-Anhalt"
   },
   {
@@ -2864,19 +2864,19 @@
   {
     "code": "RC",
     "label": "Vogtlandkreis",
-    "derivation": "ReiChenbach",
+    "derivation": "Vogtlandkreis",
     "region": "Sachsen"
   },
   {
     "code": "RD",
     "label": "Kreis Rendsburg-Eckernförde",
-    "derivation": "RenDsburg",
+    "derivation": "Rendsburg-Eckernförde",
     "region": "Schleswig-Holstein"
   },
   {
     "code": "RDG",
     "label": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
-    "derivation": "Ribnitz-DamGarten",
+    "derivation": "Vorpommern-Rügen ohne die Stadt Stralsund",
     "region": "Mecklenburg-Vorpommern"
   },
   {
@@ -2894,61 +2894,61 @@
   {
     "code": "REH",
     "label": "Landkreis Hof",
-    "derivation": "Rehau",
+    "derivation": "Hof",
     "region": "Bayern"
   },
   {
     "code": "REI",
     "label": "Landkreis Berchtesgadener Land",
-    "derivation": "Reichenhall",
+    "derivation": "Berchtesgadener Land",
     "region": "Bayern"
   },
   {
     "code": "RG",
     "label": "Landkreis Meißen",
-    "derivation": "Riesa, Großenhain",
+    "derivation": "Meißen",
     "region": "Sachsen"
   },
   {
     "code": "RH",
     "label": "Landkreis Roth",
-    "derivation": "RotH",
+    "derivation": "Roth",
     "region": "Bayern"
   },
   {
     "code": "RI",
     "label": "Landkreis Schaumburg",
-    "derivation": "Rinteln",
+    "derivation": "Schaumburg",
     "region": "Niedersachsen"
   },
   {
     "code": "RID",
     "label": "Landkreis Kelheim",
-    "derivation": "RieDenburg",
+    "derivation": "Kelheim",
     "region": "Bayern"
   },
   {
     "code": "RIE",
     "label": "Landkreis Meißen",
-    "derivation": "Riesa",
+    "derivation": "Meißen",
     "region": "Sachsen"
   },
   {
     "code": "RL",
     "label": "Landkreis Mittelsachsen",
-    "derivation": "RochLitz",
+    "derivation": "Mittelsachsen",
     "region": "Sachsen"
   },
   {
     "code": "RM",
     "label": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-    "derivation": "Röbel/Müritz",
+    "derivation": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "RN",
     "label": "Landkreis Havelland",
-    "derivation": "RatheNow",
+    "derivation": "Havelland",
     "region": "Brandenburg"
   },
   {
@@ -2960,25 +2960,25 @@
   {
     "code": "ROD",
     "label": "Landkreis Cham",
-    "derivation": "Roding",
+    "derivation": "Cham",
     "region": "Bayern"
   },
   {
     "code": "ROF",
     "label": "Landkreis Hersfeld-Rotenburg",
-    "derivation": "Rotenburg an derFulda",
+    "derivation": "Hersfeld-Rotenburg",
     "region": "Hessen"
   },
   {
     "code": "ROK",
     "label": "Donnersbergkreis",
-    "derivation": "RocKenhausen",
+    "derivation": "Donnersbergkreis",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "ROL",
     "label": "Landkreis Kelheim",
-    "derivation": "Rottenburg an derLaaber",
+    "derivation": "Kelheim",
     "region": "Bayern"
   },
   {
@@ -2990,61 +2990,61 @@
   {
     "code": "ROT",
     "label": "Landkreis Ansbach",
-    "derivation": "Rothenburg ob derTauber",
+    "derivation": "Ansbach",
     "region": "Bayern"
   },
   {
     "code": "ROW",
     "label": "Landkreis Rotenburg",
-    "derivation": "Rotenburg (Wümme)",
+    "derivation": "Rotenburg",
     "region": "Niedersachsen"
   },
   {
     "code": "RP",
     "label": "Rhein-Pfalz-Kreis",
-    "derivation": "Rhein-Pfalz",
+    "derivation": "Rhein-Pfalz-Kreis",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "RS",
     "label": "Stadt Remscheid",
-    "derivation": "RemScheid",
+    "derivation": "Remscheid",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "RSL",
     "label": "Stadt Dessau-Roßlau",
-    "derivation": "Rosslau",
+    "derivation": "Dessau-Roßlau",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "RT",
     "label": "Landkreis Reutlingen",
-    "derivation": "ReuTlingen",
+    "derivation": "Reutlingen",
     "region": "Baden-Württemberg"
   },
   {
     "code": "RU",
     "label": "Landkreis Saalfeld-Rudolstadt",
-    "derivation": "Rudolstadt",
+    "derivation": "Saalfeld-Rudolstadt",
     "region": "Thüringen"
   },
   {
     "code": "RV",
     "label": "Landkreis Ravensburg",
-    "derivation": "RaVensburg",
+    "derivation": "Ravensburg",
     "region": "Baden-Württemberg"
   },
   {
     "code": "RW",
     "label": "Landkreis Rottweil",
-    "derivation": "RottWeil",
+    "derivation": "Rottweil",
     "region": "Baden-Württemberg"
   },
   {
     "code": "RZ",
     "label": "Kreis Herzogtum Lauenburg",
-    "derivation": "RatZeburg",
+    "derivation": "Herzogtum Lauenburg",
     "region": "Schleswig-Holstein"
   },
   {
@@ -3056,43 +3056,43 @@
   {
     "code": "SAB",
     "label": "Landkreis Trier-Saarburg",
-    "derivation": "SaarBurg",
+    "derivation": "Trier-Saarburg",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "SAD",
     "label": "Landkreis Schwandorf",
-    "derivation": "SchwAnDorf",
+    "derivation": "Schwandorf",
     "region": "Bayern"
   },
   {
     "code": "SAN",
     "label": "Landkreis Hof",
-    "derivation": "StAdtsteiNach",
+    "derivation": "Hof",
     "region": "Bayern"
   },
   {
     "code": "SAW",
     "label": "Altmarkkreis Salzwedel",
-    "derivation": "SalzWedel",
+    "derivation": "Altmarkkreis Salzwedel",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "SB",
     "label": "Regionalverband Saarbrücken ohne die Stadt Völklingen",
-    "derivation": "SaarBrücken",
+    "derivation": "Regionalverband Saarbrücken ohne die Stadt Völklingen",
     "region": "Saarland"
   },
   {
     "code": "SBG",
     "label": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
-    "derivation": "StrasBurG",
+    "derivation": "Vorpommern-Greifswald ohne die Stadt Greifswald",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "SBK",
     "label": "Salzlandkreis",
-    "derivation": "SchöneBecK",
+    "derivation": "Salzlandkreis",
     "region": "Sachsen-Anhalt"
   },
   {
@@ -3104,25 +3104,25 @@
   {
     "code": "SCZ",
     "label": "Saale-Orla-Kreis",
-    "derivation": "SchleiZ",
+    "derivation": "Saale-Orla-Kreis",
     "region": "Thüringen"
   },
   {
     "code": "SDH",
     "label": "Kyffhäuserkreis",
-    "derivation": "SonDersHausen",
+    "derivation": "Kyffhäuserkreis",
     "region": "Thüringen"
   },
   {
     "code": "SDL",
     "label": "Landkreis Stendal",
-    "derivation": "StenDaL",
+    "derivation": "Stendal",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "SDT",
     "label": "Landkreis Uckermark",
-    "derivation": "Schwedt",
+    "derivation": "Uckermark",
     "region": "Brandenburg"
   },
   {
@@ -3134,61 +3134,61 @@
   {
     "code": "SEB",
     "label": "Landkreis Sächsische Schweiz-Osterzgebirge",
-    "derivation": "Sebnitz",
+    "derivation": "Sächsische Schweiz-Osterzgebirge",
     "region": "Sachsen"
   },
   {
     "code": "SEE",
     "label": "Landkreis Märkisch-Oderland",
-    "derivation": "Seelow",
+    "derivation": "Märkisch-Oderland",
     "region": "Brandenburg"
   },
   {
     "code": "SEF",
     "label": "Landkreis Neustadt an der Aisch-Bad Windsheim",
-    "derivation": "SchEinFeld",
+    "derivation": "Neustadt an der Aisch-Bad Windsheim",
     "region": "Bayern"
   },
   {
     "code": "SEL",
     "label": "Landkreis Wunsiedel im Fichtelgebirge",
-    "derivation": "Selb",
+    "derivation": "Wunsiedel im Fichtelgebirge",
     "region": "Bayern"
   },
   {
     "code": "SFB",
     "label": "Landkreis Oberspreewald-Lausitz",
-    "derivation": "SenFtenBerg",
+    "derivation": "Oberspreewald-Lausitz",
     "region": "Brandenburg"
   },
   {
     "code": "SFT",
     "label": "Salzlandkreis",
-    "derivation": "StaßFurT",
+    "derivation": "Salzlandkreis",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "SG",
     "label": "Stadt Solingen",
-    "derivation": "SolinGen",
+    "derivation": "Solingen",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "SGH",
     "label": "Landkreis Mansfeld-Südharz",
-    "derivation": "SanGerHausen",
+    "derivation": "Mansfeld-Südharz",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "SHA",
     "label": "Landkreis Schwäbisch Hall",
-    "derivation": "Schwäbischhall",
+    "derivation": "Schwäbisch Hall",
     "region": "Baden-Württemberg"
   },
   {
     "code": "SHG",
     "label": "Landkreis Schaumburg",
-    "derivation": "StadtHaGen",
+    "derivation": "Schaumburg",
     "region": "Niedersachsen"
   },
   {
@@ -3206,7 +3206,7 @@
   {
     "code": "SI",
     "label": "Kreis Siegen-Wittgenstein",
-    "derivation": "Siegen",
+    "derivation": "Siegen-Wittgenstein",
     "region": "Nordrhein-Westfalen"
   },
   {
@@ -3218,79 +3218,79 @@
   {
     "code": "SIM",
     "label": "Rhein-Hunsrück-Kreis",
-    "derivation": "Simmern",
+    "derivation": "Rhein-Hunsrück-Kreis",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "SK",
     "label": "Saalekreis",
-    "derivation": "SaaleKreis",
+    "derivation": "Saalekreis",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "SL",
     "label": "Kreis Schleswig-Flensburg",
-    "derivation": "SchLeswig",
+    "derivation": "Schleswig-Flensburg",
     "region": "Schleswig-Holstein"
   },
   {
     "code": "SLE",
     "label": "Kreis Düren",
-    "derivation": "Schleiden",
+    "derivation": "Düren",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "SLF",
     "label": "Landkreis Saalfeld-Rudolstadt",
-    "derivation": "Saalfeld",
+    "derivation": "Saalfeld-Rudolstadt",
     "region": "Thüringen"
   },
   {
     "code": "SLG",
     "label": "Landkreis Ravensburg",
-    "derivation": "Saulgau",
+    "derivation": "Ravensburg",
     "region": "Baden-Württemberg"
   },
   {
     "code": "SLK",
     "label": "Salzlandkreis",
-    "derivation": "SalzLandKreis",
+    "derivation": "Salzlandkreis",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "SLN",
     "label": "Landkreis Altenburger Land",
-    "derivation": "Schmölln",
+    "derivation": "Altenburger Land",
     "region": "Thüringen"
   },
   {
     "code": "SLS",
     "label": "Landkreis Saarlouis",
-    "derivation": "SaarLouiS",
+    "derivation": "Saarlouis",
     "region": "Saarland"
   },
   {
     "code": "SLZ",
     "label": "Wartburgkreis",
-    "derivation": "Salzungen",
+    "derivation": "Wartburgkreis",
     "region": "Thüringen"
   },
   {
     "code": "SM",
     "label": "Landkreis Schmalkalden-Meiningen",
-    "derivation": "SchMalkalden",
+    "derivation": "Schmalkalden-Meiningen",
     "region": "Thüringen"
   },
   {
     "code": "SN",
     "label": "Stadt Schwerin",
-    "derivation": "SchweriN",
+    "derivation": "Schwerin",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "SNH",
     "label": "Rhein-Neckar-Kreis",
-    "derivation": "SiNsHeim",
+    "derivation": "Rhein-Neckar-Kreis",
     "region": "Baden-Württemberg"
   },
   {
@@ -3302,13 +3302,13 @@
   {
     "code": "SOB",
     "label": "Landkreis Neuburg-Schrobenhausen",
-    "derivation": "Schrobenhausen",
+    "derivation": "Neuburg-Schrobenhausen",
     "region": "Bayern"
   },
   {
     "code": "SOG",
     "label": "Landkreis Weilheim-Schongau",
-    "derivation": "SchOnGau",
+    "derivation": "Weilheim-Schongau",
     "region": "Bayern"
   },
   {
@@ -3332,31 +3332,31 @@
   {
     "code": "SPB",
     "label": "Landkreis Spree-Neiße",
-    "derivation": "SpremBerg",
+    "derivation": "Spree-Neiße",
     "region": "Brandenburg"
   },
   {
     "code": "SPN",
     "label": "Landkreis Spree-Neiße",
-    "derivation": "Spree, Neiße",
+    "derivation": "Spree-Neiße",
     "region": "Brandenburg"
   },
   {
     "code": "SR",
     "label": "Landkreis Straubing-Bogen",
-    "derivation": "StRaubing",
+    "derivation": "Straubing-Bogen",
     "region": "Bayern"
   },
   {
     "code": "SRB",
     "label": "Landkreis Märkisch-Oderland",
-    "derivation": "StRausBerg",
+    "derivation": "Märkisch-Oderland",
     "region": "Brandenburg"
   },
   {
     "code": "SRO",
     "label": "Saale-Holzland-Kreis",
-    "derivation": "Stadtroda",
+    "derivation": "Saale-Holzland-Kreis",
     "region": "Thüringen"
   },
   {
@@ -3374,109 +3374,109 @@
   {
     "code": "STB",
     "label": "Landkreis Ludwigslust-Parchim",
-    "derivation": "SternBerg",
+    "derivation": "Ludwigslust-Parchim",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "STD",
     "label": "Landkreis Stade",
-    "derivation": "StaDe",
+    "derivation": "Stade",
     "region": "Niedersachsen"
   },
   {
     "code": "STE",
     "label": "Landkreis Lichtenfels",
-    "derivation": "StaffelstEin",
+    "derivation": "Lichtenfels",
     "region": "Bayern"
   },
   {
     "code": "STL",
     "label": "Erzgebirgskreis",
-    "derivation": "StolLberg",
+    "derivation": "Erzgebirgskreis",
     "region": "Sachsen"
   },
   {
     "code": "STO",
     "label": "Landkreis Konstanz",
-    "derivation": "Stockach",
+    "derivation": "Konstanz",
     "region": "Baden-Württemberg"
   },
   {
     "code": "SU",
     "label": "Rhein-Sieg-Kreis",
-    "derivation": "SiegbUrg",
+    "derivation": "Rhein-Sieg-Kreis",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "SUL",
     "label": "Landkreis Amberg-Sulzbach",
-    "derivation": "Sulzbach-Rosenberg",
+    "derivation": "Amberg-Sulzbach",
     "region": "Bayern"
   },
   {
     "code": "SW",
     "label": "Stadt Schweinfurt",
-    "derivation": "SchWeinfurt",
+    "derivation": "Schweinfurt",
     "region": "Bayern"
   },
   {
     "code": "SWA",
     "label": "Rheingau-Taunus-Kreis",
-    "derivation": "Schwalbach",
+    "derivation": "Rheingau-Taunus-Kreis",
     "region": "Hessen"
   },
   {
     "code": "SY",
     "label": "Landkreis Diepholz",
-    "derivation": "Syke",
+    "derivation": "Diepholz",
     "region": "Niedersachsen"
   },
   {
     "code": "SZ",
     "label": "Stadt Salzgitter",
-    "derivation": "SalZgitter",
+    "derivation": "Salzgitter",
     "region": "Niedersachsen"
   },
   {
     "code": "SZB",
     "label": "Erzgebirgskreis",
-    "derivation": "SchwarZenBerg",
+    "derivation": "Erzgebirgskreis",
     "region": "Sachsen"
   },
   {
     "code": "TBB",
     "label": "Main-Tauber-Kreis",
-    "derivation": "TauBerBischofsheim",
+    "derivation": "Main-Tauber-Kreis",
     "region": "Baden-Württemberg"
   },
   {
     "code": "TDO",
     "label": "Landkreis Nordsachsen",
-    "derivation": "Torgau, Delitzsch, Oschatz",
+    "derivation": "Nordsachsen",
     "region": "Sachsen"
   },
   {
     "code": "TE",
     "label": "Kreis Steinfurt",
-    "derivation": "Tecklenburg",
+    "derivation": "Steinfurt",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "TET",
     "label": "Landkreis Rostock",
-    "derivation": "Teterow",
+    "derivation": "Rostock",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "TF",
     "label": "Landkreis Teltow-Fläming",
-    "derivation": "Teltow, Fläming",
+    "derivation": "Teltow-Fläming",
     "region": "Brandenburg"
   },
   {
     "code": "TG",
     "label": "Landkreis Nordsachsen",
-    "derivation": "TorGau",
+    "derivation": "Nordsachsen",
     "region": "Sachsen"
   },
   {
@@ -3488,31 +3488,31 @@
   {
     "code": "TO",
     "label": "Landkreis Nordsachsen",
-    "derivation": "Torgau, Oschatz",
+    "derivation": "Nordsachsen",
     "region": "Sachsen"
   },
   {
     "code": "TP",
     "label": "Landkreis Uckermark",
-    "derivation": "TemPlin",
+    "derivation": "Uckermark",
     "region": "Brandenburg"
   },
   {
     "code": "TR",
     "label": "Landkreis Trier-Saarburg und Stadt Trier",
-    "derivation": "Trier",
+    "derivation": "Trier-Saarburg und Stadt Trier",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "TS",
     "label": "Landkreis Traunstein",
-    "derivation": "TraunStein",
+    "derivation": "Traunstein",
     "region": "Bayern"
   },
   {
     "code": "TT",
     "label": "Bodenseekreis",
-    "derivation": "TeTtnang",
+    "derivation": "Bodenseekreis",
     "region": "Baden-Württemberg"
   },
   {
@@ -3530,19 +3530,19 @@
   {
     "code": "UEM",
     "label": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
-    "derivation": "UeckerMünde",
+    "derivation": "Vorpommern-Greifswald ohne die Stadt Greifswald",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "UFF",
     "label": "Landkreis Neustadt an der Aisch-Bad Windsheim",
-    "derivation": "Uffenheim",
+    "derivation": "Neustadt an der Aisch-Bad Windsheim",
     "region": "Bayern"
   },
   {
     "code": "UH",
     "label": "Unstrut-Hainich-Kreis",
-    "derivation": "Unstrut, Hainich",
+    "derivation": "Unstrut-Hainich-Kreis",
     "region": "Thüringen"
   },
   {
@@ -3554,7 +3554,7 @@
   {
     "code": "UM",
     "label": "Landkreis Uckermark",
-    "derivation": "UckerMark",
+    "derivation": "Uckermark",
     "region": "Brandenburg"
   },
   {
@@ -3566,25 +3566,25 @@
   {
     "code": "USI",
     "label": "Hochtaunuskreis",
-    "derivation": "Usingen",
+    "derivation": "Hochtaunuskreis",
     "region": "Hessen"
   },
   {
     "code": "V",
     "label": "Vogtlandkreis",
-    "derivation": "Vogtland",
+    "derivation": "Vogtlandkreis",
     "region": "Sachsen"
   },
   {
     "code": "VAI",
     "label": "Landkreis Ludwigsburg",
-    "derivation": "Vaihingen",
+    "derivation": "Ludwigsburg",
     "region": "Baden-Württemberg"
   },
   {
     "code": "VB",
     "label": "Vogelsbergkreis",
-    "derivation": "VogelsBerg",
+    "derivation": "Vogelsbergkreis",
     "region": "Hessen"
   },
   {
@@ -3608,7 +3608,7 @@
   {
     "code": "VIB",
     "label": "Landkreis Landshut",
-    "derivation": "VilsBiburg",
+    "derivation": "Landshut",
     "region": "Bayern"
   },
   {
@@ -3620,31 +3620,31 @@
   {
     "code": "VIT",
     "label": "Landkreis Regen",
-    "derivation": "ViechTach",
+    "derivation": "Regen",
     "region": "Bayern"
   },
   {
     "code": "VK",
     "label": "Stadt Völklingen",
-    "derivation": "VölKlingen",
+    "derivation": "Völklingen",
     "region": "Saarland"
   },
   {
     "code": "VOH",
     "label": "Landkreis Neustadt an der Waldnaab",
-    "derivation": "Vohenstrauß",
+    "derivation": "Neustadt an der Waldnaab",
     "region": "Bayern"
   },
   {
     "code": "VR",
     "label": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
-    "derivation": "Vorpommern-Rügen",
+    "derivation": "Vorpommern-Rügen ohne die Stadt Stralsund",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "VS",
     "label": "Schwarzwald-Baar-Kreis",
-    "derivation": "Villingen-Schwenningen",
+    "derivation": "Schwarzwald-Baar-Kreis",
     "region": "Baden-Württemberg"
   },
   {
@@ -3656,55 +3656,55 @@
   {
     "code": "WA",
     "label": "Landkreis Waldeck-Frankenberg",
-    "derivation": "Waldeck",
+    "derivation": "Waldeck-Frankenberg",
     "region": "Hessen"
   },
   {
     "code": "WAF",
     "label": "Kreis Warendorf",
-    "derivation": "WarendorF",
+    "derivation": "Warendorf",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "WAK",
     "label": "Wartburgkreis",
-    "derivation": "WartburgKreis",
+    "derivation": "Wartburgkreis",
     "region": "Thüringen"
   },
   {
     "code": "WAN",
     "label": "Stadt Herne",
-    "derivation": "Wanne",
+    "derivation": "Herne",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "WAR",
     "label": "Kreis Höxter",
-    "derivation": "Warburg",
+    "derivation": "Höxter",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "WAT",
     "label": "Stadt Bochum",
-    "derivation": "Wattenscheid",
+    "derivation": "Bochum",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "WB",
     "label": "Landkreis Wittenberg",
-    "derivation": "WittenBerg",
+    "derivation": "Wittenberg",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "WBS",
     "label": "Landkreis Eichsfeld",
-    "derivation": "WorBiS",
+    "derivation": "Eichsfeld",
     "region": "Thüringen"
   },
   {
     "code": "WDA",
     "label": "Landkreis Zwickau",
-    "derivation": "Werdau",
+    "derivation": "Zwickau",
     "region": "Sachsen"
   },
   {
@@ -3716,19 +3716,19 @@
   {
     "code": "WEL",
     "label": "Landkreis Limburg-Weilburg",
-    "derivation": "WeiLburg",
+    "derivation": "Limburg-Weilburg",
     "region": "Hessen"
   },
   {
     "code": "WEN",
     "label": "Stadt Weiden in der Oberpfalz",
-    "derivation": "WeideN",
+    "derivation": "Weiden in der Oberpfalz",
     "region": "Bayern"
   },
   {
     "code": "WER",
     "label": "Landkreis Augsburg",
-    "derivation": "Wertingen",
+    "derivation": "Augsburg",
     "region": "Bayern"
   },
   {
@@ -3740,19 +3740,19 @@
   {
     "code": "WF",
     "label": "Landkreis Wolfenbüttel",
-    "derivation": "WolFenbüttel",
+    "derivation": "Wolfenbüttel",
     "region": "Niedersachsen"
   },
   {
     "code": "WG",
     "label": "Landkreis Ravensburg",
-    "derivation": "WanGen",
+    "derivation": "Ravensburg",
     "region": "Baden-Württemberg"
   },
   {
     "code": "WHV",
     "label": "Stadt Wilhelmshaven",
-    "derivation": "WilhelmsHaVen",
+    "derivation": "Wilhelmshaven",
     "region": "Niedersachsen"
   },
   {
@@ -3764,67 +3764,67 @@
   {
     "code": "WIL",
     "label": "Landkreis Bernkastel-Wittlich",
-    "derivation": "WittLich",
+    "derivation": "Bernkastel-Wittlich",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "WIS",
     "label": "Landkreis Nordwestmecklenburg ohne die Stadt Wismar",
-    "derivation": "Wismar",
+    "derivation": "Nordwestmecklenburg ohne die Stadt Wismar",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "WIT",
     "label": "Ennepe-Ruhr-Kreis",
-    "derivation": "Witten",
+    "derivation": "Ennepe-Ruhr-Kreis",
     "region": "Nordrhein-Westfalen"
   },
   {
     "code": "WIZ",
     "label": "Werra-Meißner-Kreis",
-    "derivation": "WitZenhausen",
+    "derivation": "Werra-Meißner-Kreis",
     "region": "Hessen"
   },
   {
     "code": "WK",
     "label": "Landkreis Ostprignitz-Ruppin",
-    "derivation": "WittstocK",
+    "derivation": "Ostprignitz-Ruppin",
     "region": "Brandenburg"
   },
   {
     "code": "WL",
     "label": "Landkreis Harburg",
-    "derivation": "Winsen (Luhe)",
+    "derivation": "Harburg",
     "region": "Niedersachsen"
   },
   {
     "code": "WLG",
     "label": "Landkreis Vorpommern-Greifswald ohne die Stadt Greifswald",
-    "derivation": "Wolgast",
+    "derivation": "Vorpommern-Greifswald ohne die Stadt Greifswald",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "WM",
     "label": "Landkreis Weilheim-Schongau",
-    "derivation": "WeilheiM",
+    "derivation": "Weilheim-Schongau",
     "region": "Bayern"
   },
   {
     "code": "WMS",
     "label": "Landkreis Börde",
-    "derivation": "WolMirStedt",
+    "derivation": "Börde",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "WN",
     "label": "Rems-Murr-Kreis",
-    "derivation": "WaiblingeN",
+    "derivation": "Rems-Murr-Kreis",
     "region": "Baden-Württemberg"
   },
   {
     "code": "WND",
     "label": "Landkreis St. Wendel",
-    "derivation": "Wendel",
+    "derivation": "St. Wendel",
     "region": "Saarland"
   },
   {
@@ -3836,79 +3836,79 @@
   {
     "code": "WOB",
     "label": "Stadt Wolfsburg",
-    "derivation": "WolfsBurg",
+    "derivation": "Wolfsburg",
     "region": "Niedersachsen"
   },
   {
     "code": "WOH",
     "label": "Landkreis Kassel",
-    "derivation": "WolfHagen",
+    "derivation": "Kassel",
     "region": "Hessen"
   },
   {
     "code": "WOL",
     "label": "Landkreis Freudenstadt",
-    "derivation": "Wolfach",
+    "derivation": "Freudenstadt",
     "region": "Baden-Württemberg"
   },
   {
     "code": "WOR",
     "label": "Landkreis Bad Tölz-Wolfratshausen",
-    "derivation": "WolfRatshausen",
+    "derivation": "Bad Tölz-Wolfratshausen",
     "region": "Bayern"
   },
   {
     "code": "WOS",
     "label": "Landkreis Freyung-Grafenau",
-    "derivation": "WolfStein",
+    "derivation": "Freyung-Grafenau",
     "region": "Bayern"
   },
   {
     "code": "WR",
     "label": "Landkreis Harz",
-    "derivation": "WernigeRode",
+    "derivation": "Harz",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "WRN",
     "label": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-    "derivation": "WaReN",
+    "derivation": "Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
     "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "WS",
     "label": "Landkreis Mühldorf a.Inn",
-    "derivation": "WasSerburg",
+    "derivation": "Mühldorf a.Inn",
     "region": "Bayern"
   },
   {
     "code": "WSF",
     "label": "Burgenlandkreis",
-    "derivation": "WeisSenFels",
+    "derivation": "Burgenlandkreis",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "WST",
     "label": "Landkreis Ammerland",
-    "derivation": "Westerstede",
+    "derivation": "Ammerland",
     "region": "Niedersachsen"
   },
   {
     "code": "WSW",
     "label": "Landkreis Görlitz",
-    "derivation": "Weisswasser",
+    "derivation": "Görlitz",
     "region": "Sachsen"
   },
   {
     "code": "WT",
     "label": "Landkreis Waldshut",
-    "derivation": "WaldshuT",
+    "derivation": "Waldshut",
     "region": "Baden-Württemberg"
   },
   {
     "code": "WTL",
     "label": "Landkreis Osnabrück",
-    "derivation": "Wittlage",
+    "derivation": "Osnabrück",
     "region": "Niedersachsen"
   },
   {
@@ -3920,43 +3920,43 @@
   {
     "code": "WUG",
     "label": "Landkreis Weißenburg-Gunzenhausen",
-    "derivation": "WeißenbUrG",
+    "derivation": "Weißenburg-Gunzenhausen",
     "region": "Bayern"
   },
   {
     "code": "WUN",
     "label": "Landkreis Wunsiedel im Fichtelgebirge",
-    "derivation": "Wunsiedel",
+    "derivation": "Wunsiedel im Fichtelgebirge",
     "region": "Bayern"
   },
   {
     "code": "WUR",
     "label": "Landkreis Leipzig",
-    "derivation": "Wurzen",
+    "derivation": "Leipzig",
     "region": "Sachsen"
   },
   {
     "code": "WW",
     "label": "Westerwaldkreis",
-    "derivation": "WesterWald",
+    "derivation": "Westerwaldkreis",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "WZ",
     "label": "Lahn-Dill-Kreis",
-    "derivation": "WetZlar",
+    "derivation": "Lahn-Dill-Kreis",
     "region": "Hessen"
   },
   {
     "code": "WZL",
     "label": "Landkreis Börde",
-    "derivation": "Wanzleben",
+    "derivation": "Börde",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "X",
     "label": "Internationale Hauptquartiere",
-    "derivation": "willkürlich gewählt",
+    "derivation": "Internationale Hauptquartiere",
     "region": "bundesweit"
   },
   {
@@ -3968,43 +3968,43 @@
   {
     "code": "ZE",
     "label": "Landkreis Anhalt-Bitterfeld",
-    "derivation": "Zerbst",
+    "derivation": "Anhalt-Bitterfeld",
     "region": "Sachsen-Anhalt"
   },
   {
     "code": "ZEL",
     "label": "Landkreis Cochem-Zell",
-    "derivation": "Zell",
+    "derivation": "Cochem-Zell",
     "region": "Rheinland-Pfalz"
   },
   {
     "code": "ZI",
     "label": "Landkreis Görlitz",
-    "derivation": "Zittau",
+    "derivation": "Görlitz",
     "region": "Sachsen"
   },
   {
     "code": "ZIG",
     "label": "Schwalm-Eder-Kreis",
-    "derivation": "ZieGenhain",
+    "derivation": "Schwalm-Eder-Kreis",
     "region": "Hessen"
   },
   {
     "code": "ZP",
     "label": "Erzgebirgskreis",
-    "derivation": "ZschoPau",
+    "derivation": "Erzgebirgskreis",
     "region": "Sachsen"
   },
   {
     "code": "ZR",
     "label": "Landkreis Greiz",
-    "derivation": "ZeulenRoda",
+    "derivation": "Greiz",
     "region": "Thüringen"
   },
   {
     "code": "ZS",
     "label": "Landkreis Teltow-Fläming",
-    "derivation": "ZoSsen",
+    "derivation": "Teltow-Fläming",
     "region": "Brandenburg"
   },
   {
@@ -4016,7 +4016,7 @@
   {
     "code": "ZZ",
     "label": "Burgenlandkreis",
-    "derivation": "ZeitZ",
+    "derivation": "Burgenlandkreis",
     "region": "Sachsen-Anhalt"
   }
 ]

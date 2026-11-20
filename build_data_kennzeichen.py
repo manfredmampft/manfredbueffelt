@@ -143,7 +143,11 @@ def main():
         label = clean("".join(seg["text"] for seg in row[1]))
         label = re.sub(r"\s*\(.*?\)\s*", " ", label).strip()
 
-        derivation = reconstruct_name(row[2])
+        derivation = label
+        for prefix in ["Stadt ", "Landkreis ", "Kreis ", "Städteregion ", "Gemeinde "]:
+            if derivation.startswith(prefix):
+                derivation = derivation[len(prefix):]
+                break
 
         if not label or not derivation:
             continue
