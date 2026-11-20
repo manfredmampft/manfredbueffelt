@@ -9,6 +9,7 @@ let current = null;
 let status = "open";
 let hinted = false;
 let hintLength = 0;
+let totals = { correct: 0, hinted: 0, revealed: 0 };
 
 function normalize(value) {
   return value
@@ -122,6 +123,8 @@ function startRound() {
   round = shuffle(pool).slice(0, size);
   roundIndex = 0;
 
+  totals = { correct: 0, hinted: 0, revealed: 0 };
+
   showScreen("game");
   renderPlate();
 }
@@ -160,6 +163,7 @@ function renderPlate() {
 }
 
 function markCorrect() {
+  totals[hinted ? "hinted" : "correct"]++;
   status = "correct";
   const input = $("answer-input");
   input.readOnly = true;
@@ -205,8 +209,19 @@ $("answer-form").addEventListener("submit", event => {
 });
 
 function finishRound() {
+  // Falls ein Kürzel noch offen ist, zählt es als nicht erraten
+  if (status === "open") {
+    totals.revealed++;
+  }
+
+  $("final-correct").textContent = totals.correct;
+  $("final-hinted").textContent = totals.hinted;
+  $("final-revealed").textContent = totals.revealed;
+
   $("finish-description").textContent =
-    `Du hast ${round.length} Kürzel gespielt.`;
+    `Du hast ${round.length} Kürzel gespielt und ` +
+    `${totals.correct + totals.hinted} von ${round.length} erraten.`;
+
   showScreen("finish");
   $("restart").focus();
 }
@@ -241,6 +256,7 @@ $("reveal").addEventListener("click", () => {
   if (status !== "open") return;
 
   status = "revealed";
+  totals.revealed++;
   const input = $("answer-input");
   input.value = current.label;
   input.readOnly = true;
