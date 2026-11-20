@@ -141,76 +141,66 @@ function renderPlate() {
   $("progress-fill").style.width = `${percent}%`;
 
   const input = $("answer-input");
+  const container = input.parentElement;
+
+  // Zustand des vorherigen Kürzels vollständig zurücksetzen
+  container.classList.remove("correct", "revealed");
+  container.querySelector(".answer-status")?.remove();
+
   input.value = "";
   input.readOnly = false;
   input.placeholder = "Stadt oder Kreis eingeben";
   input.removeAttribute("aria-label");
 
+  $("hint").hidden = false;
   $("reveal").disabled = false;
   setFeedback("Tippe die Stadt oder den Kreis ein. Richtige Antworten werden automatisch erkannt.");
 
   input.focus();
 }
 
-function checkAnswer() {
-  if (status !== "open" || !$("answer-input").value.trim()) {
-    return;
-  }
-
-if (matchesAnswer($("answer-input").value, current)) {
+function markCorrect() {
   status = "correct";
-  $("answer-input").readOnly = true;
-  $("answer-input").parentElement.classList.add("correct");
-  $("answer-input").parentElement.querySelector(".answer-status")?.remove();
+  const input = $("answer-input");
+  input.readOnly = true;
+  input.parentElement.classList.add("correct");
+  input.parentElement.querySelector(".answer-status")?.remove();
   const check = document.createElement("span");
   check.className = "answer-status";
   check.textContent = "✓";
-  $("answer-input").parentElement.append(check);
+  input.parentElement.append(check);
   $("hint").hidden = true;
   setFeedback(
     `✓ Richtig! ${current.label} – abgeleitet von ${current.derivation}.`,
     true
   );
   $("next").focus();
-} else {
-    setFeedback("Noch nicht richtig. Prüfe die Schreibweise oder nutze einen Hinweis.");
-  }
 }
+
+function tryAnswer() {
+  if (status !== "open" || !$("answer-input").value.trim()) {
+    return false;
+  }
+
+  if (matchesAnswer($("answer-input").value, current)) {
+    markCorrect();
+    return true;
+  }
+
+  return false;
+}
+
+$("answer-input").addEventListener("input", () => {
+  if (status === "open") {
+    tryAnswer();
+  }
+});
 
 $("answer-form").addEventListener("submit", event => {
   event.preventDefault();
-  checkAnswer();
-});
 
-$("hint").addEventListener("click", () => {
-  if (status !== "open") return;
-  hinted = true;
-  hintLength = Math.min(hintLength + 1, Math.max(1, current.derivation.length - 1));
-  const prefix = current.derivation.slice(0, hintLength);
-  $("answer-input").placeholder = `Hinweis: ${prefix}…`;
-  setFeedback(`Der Ort beginnt mit „${prefix}…“.`);
-  $("answer-input").focus();
-});
-
-$("reveal").addEventListener("click", () => {
-  if (status !== "open") return;
-  status = "revealed";
-  $("answer-input").value = current.label;
-  $("answer-input").readOnly = true;
-  $("answer-input").parentElement.classList.add("revealed");
-  $("hint").hidden = true;
-  $("reveal").disabled = true;
-  setFeedback(
-    `Lösung: ${current.label} – abgeleitet von ${current.derivation}.`
-  );
-});
-
-$("next").addEventListener("click", () => {
-  roundIndex++;
-  if (roundIndex >= round.length) {
-    finishRound();
-  } else {
-    renderPlate();
+  if (!tryAnswer()) {
+    setFeedback("Noch nicht richtig. Prüfe die Schreibweise oder nutze einen Hinweis.");
   }
 });
 
