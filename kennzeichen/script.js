@@ -222,4 +222,44 @@ $("settings").addEventListener("click", () => {
   $("start").focus();
 });
 
+$("hint").addEventListener("click", () => {
+  if (status !== "open") return;
+
+  hinted = true;
+  hintLength = Math.min(
+    hintLength + 1,
+    Math.max(1, current.derivation.length - 1)
+  );
+
+  const prefix = current.derivation.slice(0, hintLength);
+  $("answer-input").placeholder = `Hinweis: ${prefix}…`;
+  setFeedback(`Der Ort beginnt mit „${prefix}…“.`);
+  $("answer-input").focus();
+});
+
+$("reveal").addEventListener("click", () => {
+  if (status !== "open") return;
+
+  status = "revealed";
+  const input = $("answer-input");
+  input.value = current.label;
+  input.readOnly = true;
+  input.parentElement.classList.add("revealed");
+  $("hint").hidden = true;
+  $("reveal").disabled = true;
+  setFeedback(
+    `Lösung: ${current.label} – abgeleitet von ${current.derivation}.`
+  );
+});
+
+$("next").addEventListener("click", () => {
+  roundIndex++;
+
+  if (roundIndex >= round.length) {
+    finishRound();
+  } else {
+    renderPlate();
+  }
+});
+
 loadPlates();
