@@ -26,7 +26,6 @@ function normalize(value) {
 function matchesAnswer(input, current) {
   const value = normalize(input);
 
-  // Präfixe entfernen: "Stadt Köln" -> "köln", "Landkreis Kleve" -> "kleve"
   const stripped = value
     .replace(/^stadt/, "")
     .replace(/^(landkreis|kreis)/, "")
@@ -86,8 +85,8 @@ async function loadPlates() {
 
     plates = data.filter(plate =>
       typeof plate.code === "string" &&
-      Array.isArray(plate.answers) &&
-      plate.answers.length > 0 &&
+      typeof plate.label === "string" &&
+      typeof plate.derivation === "string" &&
       typeof plate.region === "string"
     );
 
@@ -187,7 +186,7 @@ $("hint").addEventListener("click", () => {
   if (status !== "open") return;
   hinted = true;
   hintLength = Math.min(hintLength + 1, Math.max(1, current.answers[0].length - 1));
-  const prefix = current.answers[0].slice(0, hintLength);
+  const prefix = current.derivation.slice(0, hintLength);
   $("answer-input").placeholder = `Hinweis: ${prefix}…`;
   setFeedback(`Der Ort beginnt mit „${prefix}…“.`);
   $("answer-input").focus();

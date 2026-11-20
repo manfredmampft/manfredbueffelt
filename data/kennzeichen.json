@@ -108,12 +108,6 @@
     "region": "Mecklenburg-Vorpommern"
   },
   {
-    "code": "AÖ",
-    "label": "Landkreis Altötting",
-    "derivation": "AltÖtting",
-    "region": "Bayern"
-  },
-  {
     "code": "AP",
     "label": "Landkreis Weimarer Land",
     "derivation": "Apolda",
@@ -372,12 +366,6 @@
     "region": "Nordrhein-Westfalen"
   },
   {
-    "code": "BÖ",
-    "label": "Landkreis Börde",
-    "derivation": "Börde",
-    "region": "Sachsen-Anhalt"
-  },
-  {
     "code": "BOG",
     "label": "Landkreis Straubing-Bogen",
     "derivation": "Bogen",
@@ -474,34 +462,10 @@
     "region": "Sachsen-Anhalt"
   },
   {
-    "code": "BÜD",
-    "label": "Wetteraukreis",
-    "derivation": "Büdingen",
-    "region": "Hessen"
-  },
-  {
     "code": "BUL",
     "label": "Landkreis Amberg-Sulzbach",
     "derivation": "BurgLengenfeld",
     "region": "Bayern"
-  },
-  {
-    "code": "BÜR",
-    "label": "Kreis Paderborn",
-    "derivation": "Büren",
-    "region": "Nordrhein-Westfalen"
-  },
-  {
-    "code": "BÜS",
-    "label": "Gemeinde Büsingen am Hochrhein",
-    "derivation": "Büsingen",
-    "region": "Baden-Württemberg"
-  },
-  {
-    "code": "BÜZ",
-    "label": "Landkreis Rostock",
-    "derivation": "BütZow",
-    "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "BZ",
@@ -754,12 +718,6 @@
     "label": "Landkreis Göttingen ohne die Stadt Göttingen",
     "derivation": "Duderstadt",
     "region": "Niedersachsen"
-  },
-  {
-    "code": "DÜW",
-    "label": "Landkreis Bad Dürkheim",
-    "derivation": "Dürkheiman derWeinstraße",
-    "region": "Rheinland-Pfalz"
   },
   {
     "code": "DW",
@@ -1038,12 +996,6 @@
     "region": "Schleswig-Holstein"
   },
   {
-    "code": "FLÖ",
-    "label": "Landkreis Mittelsachsen",
-    "derivation": "Flöha",
-    "region": "Sachsen"
-  },
-  {
     "code": "FN",
     "label": "Bodenseekreis",
     "derivation": "FriedrichshafeN",
@@ -1102,18 +1054,6 @@
     "label": "Landkreis Sächsische Schweiz-Osterzgebirge",
     "derivation": "FreiTaL",
     "region": "Sachsen"
-  },
-  {
-    "code": "FÜ",
-    "label": "Stadt Fürth",
-    "derivation": "Fürth",
-    "region": "Bayern"
-  },
-  {
-    "code": "FÜS",
-    "label": "Landkreis Ostallgäu",
-    "derivation": "Füssen",
-    "region": "Bayern"
   },
   {
     "code": "FW",
@@ -1266,12 +1206,6 @@
     "region": "Sachsen-Anhalt"
   },
   {
-    "code": "GÖ",
-    "label": "Landkreis Göttingen Stadt Göttingen übriger Landkreis",
-    "derivation": "Göttingen",
-    "region": "Niedersachsen"
-  },
-  {
     "code": "GOA",
     "label": "Rhein-Hunsrück-Kreis",
     "derivation": "Sanktgoar",
@@ -1342,12 +1276,6 @@
     "label": "Landkreis Gotha",
     "derivation": "Gotha",
     "region": "Thüringen"
-  },
-  {
-    "code": "GÜ",
-    "label": "Landkreis Rostock",
-    "derivation": "Güstrow",
-    "region": "Mecklenburg-Vorpommern"
   },
   {
     "code": "GUB",
@@ -1566,12 +1494,6 @@
     "region": "Niedersachsen"
   },
   {
-    "code": "HMÜ",
-    "label": "Landkreis Göttingen ohne die Stadt Göttingen",
-    "derivation": "Hann.münden",
-    "region": "Niedersachsen"
-  },
-  {
     "code": "HN",
     "label": "Stadt Heilbronn",
     "derivation": "HeilbronN",
@@ -1612,12 +1534,6 @@
     "label": "Landkreis Freudenstadt",
     "derivation": "Horb",
     "region": "Baden-Württemberg"
-  },
-  {
-    "code": "HÖS",
-    "label": "Landkreis Erlangen-Höchstadt",
-    "derivation": "HöchStadt",
-    "region": "Bayern"
   },
   {
     "code": "HOT",
@@ -1764,12 +1680,6 @@
     "region": "Sachsen-Anhalt"
   },
   {
-    "code": "JÜL",
-    "label": "Kreis Düren",
-    "derivation": "Jülich",
-    "region": "Nordrhein-Westfalen"
-  },
-  {
     "code": "K",
     "label": "Stadt Köln",
     "derivation": "Köln",
@@ -1890,24 +1800,6 @@
     "region": "Rheinland-Pfalz"
   },
   {
-    "code": "KÖN",
-    "label": "Landkreis Rhön-Grabfeld",
-    "derivation": "Königshofen",
-    "region": "Bayern"
-  },
-  {
-    "code": "KÖT",
-    "label": "Landkreis Anhalt-Bitterfeld",
-    "derivation": "Köthen",
-    "region": "Sachsen-Anhalt"
-  },
-  {
-    "code": "KÖZ",
-    "label": "Landkreis Cham",
-    "derivation": "KötZting",
-    "region": "Bayern"
-  },
-  {
     "code": "KR",
     "label": "Stadt Krefeld",
     "derivation": "Krefeld",
@@ -1936,12 +1828,6 @@
     "label": "Landkreis Kulmbach",
     "derivation": "Kulmbach",
     "region": "Bayern"
-  },
-  {
-    "code": "KÜN",
-    "label": "Hohenlohekreis",
-    "derivation": "Künzelsau",
-    "region": "Baden-Württemberg"
   },
   {
     "code": "KUS",
@@ -2124,18 +2010,6 @@
     "region": "Brandenburg"
   },
   {
-    "code": "LÖ",
-    "label": "Landkreis Lörrach",
-    "derivation": "Lörrach",
-    "region": "Baden-Württemberg"
-  },
-  {
-    "code": "LÖB",
-    "label": "Landkreis Görlitz",
-    "derivation": "Löbau",
-    "region": "Sachsen"
-  },
-  {
     "code": "LOS",
     "label": "Landkreis Oder-Spree",
     "derivation": "LandkreisOder-Spree",
@@ -2170,12 +2044,6 @@
     "label": "Stadt Ludwigshafen am Rhein",
     "derivation": "Ludwigshafen",
     "region": "Rheinland-Pfalz"
-  },
-  {
-    "code": "LÜN",
-    "label": "Kreis Unna",
-    "derivation": "Lünen",
-    "region": "Nordrhein-Westfalen"
   },
   {
     "code": "LUK",
@@ -2466,30 +2334,6 @@
     "region": "Bayern"
   },
   {
-    "code": "MÜ",
-    "label": "Landkreis Mühldorf am Inn",
-    "derivation": "Mühldorf",
-    "region": "Bayern"
-  },
-  {
-    "code": "MÜB",
-    "label": "Landkreis Bayreuth",
-    "derivation": "MünchBerg",
-    "region": "Bayern"
-  },
-  {
-    "code": "MÜL",
-    "label": "Landkreis Breisgau-Hochschwarzwald",
-    "derivation": "Müllheim",
-    "region": "Baden-Württemberg"
-  },
-  {
-    "code": "MÜR",
-    "label": "Landkreis Mecklenburgische Seenplatte ohne die Stadt Neubrandenburg",
-    "derivation": "Müritz",
-    "region": "Mecklenburg-Vorpommern"
-  },
-  {
     "code": "MW",
     "label": "Landkreis Mittelsachsen",
     "derivation": "MittWeida",
@@ -2652,12 +2496,6 @@
     "region": "Schleswig-Holstein"
   },
   {
-    "code": "NÖ",
-    "label": "Landkreis Donau-Ries",
-    "derivation": "Nördlingen",
-    "region": "Bayern"
-  },
-  {
     "code": "NOH",
     "label": "Landkreis Grafschaft Bentheim",
     "derivation": "NordHorn",
@@ -2814,12 +2652,6 @@
     "region": "Niedersachsen"
   },
   {
-    "code": "ÖHR",
-    "label": "Hohenlohekreis",
-    "derivation": "Öhringen",
-    "region": "Baden-Württemberg"
-  },
-  {
     "code": "OHV",
     "label": "Landkreis Oberhavel",
     "derivation": "OberHaVel",
@@ -2970,12 +2802,6 @@
     "region": "Sachsen"
   },
   {
-    "code": "PLÖ",
-    "label": "Kreis Plön",
-    "derivation": "Plön",
-    "region": "Schleswig-Holstein"
-  },
-  {
     "code": "PM",
     "label": "Landkreis Potsdam-Mittelmark",
     "derivation": "Potsdam, Mittelmark",
@@ -2992,12 +2818,6 @@
     "label": "Landkreis Prignitz",
     "derivation": "Prignitz",
     "region": "Brandenburg"
-  },
-  {
-    "code": "PRÜ",
-    "label": "Eifelkreis Bitburg-Prüm",
-    "derivation": "Prüm",
-    "region": "Rheinland-Pfalz"
   },
   {
     "code": "PS",
@@ -3210,18 +3030,6 @@
     "region": "Thüringen"
   },
   {
-    "code": "RÜD",
-    "label": "Rheingau-Taunus-Kreis",
-    "derivation": "Rüdesheim",
-    "region": "Hessen"
-  },
-  {
-    "code": "RÜG",
-    "label": "Landkreis Vorpommern-Rügen ohne die Stadt Stralsund",
-    "derivation": "Rügen",
-    "region": "Mecklenburg-Vorpommern"
-  },
-  {
     "code": "RV",
     "label": "Landkreis Ravensburg",
     "derivation": "RaVensburg",
@@ -3256,12 +3064,6 @@
     "label": "Landkreis Schwandorf",
     "derivation": "SchwAnDorf",
     "region": "Bayern"
-  },
-  {
-    "code": "SÄK",
-    "label": "Landkreis Waldshut",
-    "derivation": "SäcKingen",
-    "region": "Baden-Württemberg"
   },
   {
     "code": "SAN",
@@ -3468,12 +3270,6 @@
     "region": "Saarland"
   },
   {
-    "code": "SLÜ",
-    "label": "Main-Kinzig-Kreis",
-    "derivation": "Schlüchtern",
-    "region": "Hessen"
-  },
-  {
     "code": "SLZ",
     "label": "Wartburgkreis",
     "derivation": "Salzungen",
@@ -3484,12 +3280,6 @@
     "label": "Landkreis Schmalkalden-Meiningen",
     "derivation": "SchMalkalden",
     "region": "Thüringen"
-  },
-  {
-    "code": "SMÜ",
-    "label": "Landkreis Augsburg",
-    "derivation": "Schwabmünchen",
-    "region": "Bayern"
   },
   {
     "code": "SN",
@@ -3525,12 +3315,6 @@
     "code": "SOK",
     "label": "Saale-Orla-Kreis",
     "derivation": "Saale-Orla-Kreis",
-    "region": "Thüringen"
-  },
-  {
-    "code": "SÖM",
-    "label": "Landkreis Sömmerda",
-    "derivation": "Sömmerda",
     "region": "Thüringen"
   },
   {
@@ -3630,12 +3414,6 @@
     "region": "Bayern"
   },
   {
-    "code": "SÜW",
-    "label": "Landkreis Südliche Weinstraße",
-    "derivation": "SüdlicheWeinstraße",
-    "region": "Rheinland-Pfalz"
-  },
-  {
     "code": "SW",
     "label": "Stadt Schweinfurt",
     "derivation": "SchWeinfurt",
@@ -3714,12 +3492,6 @@
     "region": "Sachsen"
   },
   {
-    "code": "TÖL",
-    "label": "Landkreis Bad Tölz-Wolfratshausen",
-    "derivation": "Tölz",
-    "region": "Bayern"
-  },
-  {
     "code": "TP",
     "label": "Landkreis Uckermark",
     "derivation": "TemPlin",
@@ -3744,21 +3516,9 @@
     "region": "Baden-Württemberg"
   },
   {
-    "code": "TÜ",
-    "label": "Landkreis Tübingen",
-    "derivation": "Tübingen",
-    "region": "Baden-Württemberg"
-  },
-  {
     "code": "TUT",
     "label": "Landkreis Tuttlingen",
     "derivation": "Tuttlingen",
-    "region": "Baden-Württemberg"
-  },
-  {
-    "code": "ÜB",
-    "label": "Bodenseekreis",
-    "derivation": "Überlingen",
     "region": "Baden-Württemberg"
   },
   {
@@ -4158,21 +3918,9 @@
     "region": "Niedersachsen"
   },
   {
-    "code": "WÜ",
-    "label": "Stadt Würzburg",
-    "derivation": "Würzburg",
-    "region": "Bayern"
-  },
-  {
     "code": "WUG",
     "label": "Landkreis Weißenburg-Gunzenhausen",
     "derivation": "WeißenbUrG",
-    "region": "Bayern"
-  },
-  {
-    "code": "WÜM",
-    "label": "Landkreis Cham",
-    "derivation": "Waldmünchen(mit einem Buchstabendreher)",
     "region": "Bayern"
   },
   {

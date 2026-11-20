@@ -7,7 +7,6 @@ from pathlib import Path
 URL = "https://de.wikipedia.org/wiki/Liste_der_Kfz-Kennzeichen_in_Deutschland"
 OUTPUT = Path("data/kennzeichen.json")
 
-# Diese Einträge sind keine normalen Stadt-/Kreis-Kennzeichen
 SKIP_SUBSTRINGS = [
     "diplomaten", "bundespolizei", "landesregierung", "landtag",
     "senat", "bürgerschaft", "abgeordnetenhaus", "wasserstraßen",
@@ -59,8 +58,6 @@ def reconstruct_name(cell):
     name = re.sub(r"\s*/\s*", "/", name)
     name = re.sub(r"\s*,\s*", ", ", name)
     name = re.sub(r"\s+", " ", name)
-
-    # "Hansestadt Hamburg" -> "Hamburg"
     name = re.sub(r"^Hansestadt\s+", "", name)
 
     return name
@@ -124,9 +121,15 @@ def main():
         if len(row) != 4:
             continue
 
-        code = clean(row[0][0]["text"]).strip() if row[0] else ""
+        if not row[0] or not row[0][0]:
+            continue
+
+        code = clean(row[0][0]["text"]).strip()
 
         if not code or len(code) > 3:
+            continue
+
+        if not re.fullmatch(r"[A-Z0-9]{1,3}", code):
             continue
 
         if not row[0][0]["bold"]:
@@ -137,11 +140,9 @@ def main():
         if region not in BUNDESLAENDER:
             continue
 
-        # Stadt/Landkreis, z. B. "Stadt Köln" oder "Landkreis Kleve"
         label = clean("".join(seg["text"] for seg in row[1]))
         label = re.sub(r"\s*\(.*?\)\s*", " ", label).strip()
 
-        # Abgeleitet von, z. B. "Köln" oder "Kleve"
         derivation = reconstruct_name(row[2])
 
         if not label or not derivation:
@@ -150,7 +151,6 @@ def main():
         if is_skipped(label) or is_skipped(derivation):
             continue
 
-        # Doppelte Kürzel: nur das erste Vorkommen behalten
         if code in plates:
             continue
 
