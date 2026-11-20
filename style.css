@@ -426,3 +426,48 @@ footer {
     transition: none !important;
   }
 }
+
+.quiz-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-top: 32px;
+}
+
+.quiz-card {
+  display: block;
+  padding: 28px 24px;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  background: #0f1829;
+  color: var(--text);
+  text-decoration: none;
+  transition: transform 150ms, border-color 150ms;
+}
+
+.quiz-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--accent);
+}
+
+.quiz-icon {
+  font-size: 32px;
+}
+
+.quiz-card h2 {
+  margin: 14px 0 8px;
+  font-family: "Outfit", sans-serif;
+  font-size: 22px;
+}
+
+.quiz-card p {
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+@media (max-width: 560px) {
+  .quiz-cards {
+    grid-template-columns: 1fr;
+  }
+}

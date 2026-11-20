@@ -385,8 +385,7 @@
       "Luxemburg",
       "Monaco",
       "Spanien",
-      "Schweiz",
-      "Suriname"
+      "Schweiz"
     ]
   },
   {
@@ -1272,7 +1271,6 @@
     "continent": "Südamerika",
     "neighbors": [
       "Brasilien",
-      "Frankreich",
       "Guyana"
     ]
   },

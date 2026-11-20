@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kfz-Kennzeichen-Quiz</title>
+  <link rel="stylesheet" href="../style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <main class="app">
+    <header class="header">
+      <a class="brand" href="../">← Zurück</a>
+      <span class="tagline">Welcher Ort steckt dahinter?</span>
+    </header>
+
+    <section id="setup" class="panel">
+      <span class="eyebrow">DEIN DEUTSCHLAND-WORKOUT</span>
+      <h1>Welcher Ort<br>steckt dahinter?</h1>
+      <p class="intro">
+        Ein Kfz-Kürzel erscheint. Errate die Stadt oder den Kreis, von dem es abgeleitet ist.
+      </p>
+
+      <div class="settings">
+        <label>
+          Bundesland
+          <select id="region">
+            <option value="all">Alle Bundesländer</option>
+          </select>
+        </label>
+
+        <label>
+          Kürzel pro Runde
+          <select id="round-size">
+            <option value="5">5 Kürzel</option>
+            <option value="10" selected>10 Kürzel</option>
+            <option value="20">20 Kürzel</option>
+            <option value="all">Alle verfügbaren</option>
+          </select>
+        </label>
+      </div>
+
+      <button id="start" class="button primary" disabled>
+        Daten werden geladen …
+      </button>
+      <p id="load-status" class="muted" role="status"></p>
+    </section>
+
+    <section id="game" class="panel" hidden>
+      <div class="game-top">
+        <span id="round-label" class="pill"></span>
+        <span id="score-label" class="muted"></span>
+      </div>
+
+      <div class="progress">
+        <div id="progress-fill"></div>
+      </div>
+
+      <div class="country-heading">
+        <span class="eyebrow">WELCHER ORT STECKT DAHINTER?</span>
+        <h1 id="plate-code" style="font-size: clamp(48px, 12vw, 96px); letter-spacing: 4px;"></h1>
+        <p id="region-label" class="muted"></p>
+      </div>
+
+      <form id="answer-form" autocomplete="off">
+        <div class="answer">
+          <input id="answer-input" type="text" placeholder="Stadt oder Kreis eingeben" autocomplete="off" spellcheck="false">
+          <button type="button" id="hint" class="hint-button" title="Anfangsbuchstaben anzeigen">?</button>
+        </div>
+        <button type="submit" class="button check-button">Antwort prüfen ✓</button>
+      </form>
+
+      <p id="feedback" class="feedback" role="status" aria-live="polite"></p>
+
+      <div class="game-actions">
+        <button id="reveal" class="button secondary">Auflösen</button>
+        <button id="next" class="button primary">Weiter →</button>
+      </div>
+
+      <button id="quit" class="text-button">Runde beenden</button>
+    </section>
+
+    <section id="finish" class="panel finish" hidden>
+      <div class="finish-icon">🎉</div>
+      <span class="eyebrow">RUNDE GESCHAFFT</span>
+      <h1>Ein Stück<br>deutschlandsicherer.</h1>
+      <p id="finish-description" class="intro"></p>
+
+      <div class="stats">
+        <div><strong id="final-correct">0</strong><span>Ohne Hinweis</span></div>
+        <div><strong id="final-hinted">0</strong><span>Mit Hinweis</span></div>
+        <div><strong id="final-revealed">0</strong><span>Nicht erraten</span></div>
+      </div>
+
+      <button id="restart" class="button primary">Neue Runde starten →</button>
+      <button id="settings" class="text-button">Einstellungen ändern</button>
+    </section>
+
+    <footer>
+      Kfz-Kürzel basieren auf offiziellen Angaben zur Fahrzeug-Zulassungsverordnung.
+    </footer>
+  </main>
+</body>
+</html>
