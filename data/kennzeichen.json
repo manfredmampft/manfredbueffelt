@@ -1350,6 +1350,12 @@
     "region": "Bayern"
   },
   {
+    "code": "HB",
+    "label": "Stadt Bremen, Senat und Bürgerschaft",
+    "derivation": "HansestadtBremen",
+    "region": "Bremen"
+  },
+  {
     "code": "HBN",
     "label": "Landkreis Hildburghausen",
     "derivation": "HildBurghauseN",
@@ -1450,6 +1456,12 @@
     "label": "Stadt Greifswald",
     "derivation": "HansestadtGreifsWald",
     "region": "Mecklenburg-Vorpommern"
+  },
+  {
+    "code": "HH",
+    "label": "Freie und Hansestadt Hamburg, Senat und Bürgerschaft",
+    "derivation": "HansestadtHamburg",
+    "region": "Hamburg"
   },
   {
     "code": "HHM",

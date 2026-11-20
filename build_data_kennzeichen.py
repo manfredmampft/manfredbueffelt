@@ -9,7 +9,7 @@ OUTPUT = Path("data/kennzeichen.json")
 
 SKIP_SUBSTRINGS = [
     "diplomaten", "bundespolizei", "landesregierung", "landtag",
-    "senat", "bürgerschaft", "abgeordnetenhaus", "wasserstraßen",
+    "abgeordnetenhaus", "wasserstraßen",
     "bundesverfassungsgericht", "bundesministerien",
     "bundesfinanzverwaltung", "bundespräsidialamt", "bundesrat",
     "bundestag", "kfz des", "kraftfahrzeuge", "bundesweit",
